@@ -1,1 +1,1 @@
-jupyter nbconvert L3.ipynb --TagRemovePreprocessor.remove_input_tags "remove_input" --to slides --stdout > L3.html
+jupyter nbconvert ind.ipynb --TagRemovePreprocessor.remove_input_tags "remove_input" --to slides --stdout > index.html
