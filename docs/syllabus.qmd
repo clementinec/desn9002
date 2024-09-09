@@ -1,0 +1,258 @@
+---
+title: "DESN9002: Sustainable Leadership (2024-2025)"
+format: 
+    pdf:
+        toc: true
+        papersize: a4
+        geometry:
+          - top=20mm
+          - left=20mm
+          - heightrounded
+        
+---
+
+#### Course Instructors:  
+Dr Hongshan GUO and Dr Andrew Pau HOANG
+
+#### Teaching Assistants:  
+Jasmine AFINA-NAFISAH, Yasmine CASUPANAN
+
+#### Course Time/Location:
+- Lecture on Tuesdays 16:30 - 18:20, in Main Building (MB201)  
+  
+- Lab* on Fridays, 9:30-10:20 (Part 1) and 10:30 to 11:20 (Part 2) CPD-LG.08 (Centennial Campus)    
+	*There are no labs for the first week. Students will be divided into two groups for the lab to attend either Session 1 or Session 2.
+
+## Course Description:
+
+"Leadership" often conjures up images of hierarchy, the top-down power that creates unnecessary tension between the haves and the have-nots. Such leadership can exacerbate social inequalities, alienation and environmental destruction. In a society that is increasingly connected, and evolving ever rapidly, this form of centralised concentrated leadership cannot answer to change fast enough.
+
+So, what kind of leadership do we need to guarantee humans are best able to care for and support each other, and the environment? What are the other models of leadership we need? Where will this change come from? How will we adapt and evolve the current conception of leadership towards a more sustainable world?
+
+It is clear that our generation has the duty to reinvent leadership and implement it in society overall. The University of Hong Kong’s Bachelor of Arts and Sciences (BASc) programmes are uniquely positioned to address such questions. Hong Kong and the world needs a new generation of leaders that understand empathy and interdependency, who are creative, resilient, visionary, and highly cooperative. Such qualities are better learned by experience than merely by theory. Not only is it about acquiring knowledge, but creating new knowledge about the forms of leadership we need for a sustainable world.
+
+### Instructions for Students
+
+1.    Engage Actively: Participate in all interactive parts, workshops, and discussions.
+2.    Reflect Deeply: Use the reflective assignments to critically analyze your experiences and growth.
+3.    Stay Consistent: Keep up with readings and quizzes to reinforce your understanding.
+4.    Collaborate Effectively: Work well with your team, contribute actively, and provide constructive feedback.
+5.    Be Innovative: Think creatively and propose novel solutions in your projects.
+6.    Seek Feedback: Use feedback from peers and instructors to improve continuously.
+
+  
+
+### Weekly Topics
+
+#### Week 1 (Sep 03): Introduction to Sustainable Leadership
+
+- Part 1 (50 min): Meet the instructors, course overview and introduction to SDGs
+- Part 2 (50 min): Leadership vision board in the context of sustainability; how to approach the connections between SDGs and leadership, what we are calling “sustainable leadership”
+- Lab/Tutorial (50 min): No lab/tutorial this week
+
+#### Week 2 (Sep 10): Principles of Sustainability and Leadership
+
+- Part 1 (50 min): Sustainability principles in practice (with examples)
+- Part 2 (50 min): Principles of leadership theories with sustainability as a value
+- Lab/Tutorial (50 min): Case study analysis on sustainability in leadership
+  
+#### Week 3 (Sep 17): Diversity and Sustainable Leadership Part I
+
+- Part 1 (50 min): Introduction to diversity, equity and inclusion (DEI) in leadership
+- Part 2 (50 min): Extending DEI in leadership to issues of AI ethics
+- Lab/Tutorial (50 min): Reflective discussion on challenges of diversity in leadership and teamwork
+  
+#### Week 4 (Sep 24): Diversity and Sustainable Leadership Part II
+
+- Part 1 (50 min): DEI and sustainable leadership case studies
+- Part 2 (50 min): Role-playing intercultural leadership, negotiation and teamwork dilemmas
+- Lab/Tutorial (50 min): Fishbowl simulation/role play on DEI and sustainable leadership
+
+_October 01 (Holiday–No Class)_
+
+#### Week 5 (October 08): Sustainable Leadership and the Ethics of Risk Management
+
+- Part 1 (50 min): Risk-taking in leadership situations; courage and vulnerability
+- Part 2 (50 min): Case study analysis on leadership and sustainability failures
+- Lab/Tutorial (50 min): Group activity on risk assessment in project management
+
+#### Week 6 (October 15): Reading Week Optional Check-In, Mid-Course Reflection and Feedback
+
+- No Classes: Independent team work and virtual check-ins  
+
+#### Week 7 (Oct 22): Group Process and Formation
+
+- Part 1 (50 min): Tuckman’s stages of group development
+- Part 2 (50 min): Balancing strength/competence with warmth/care
+- Lab/Tutorial (50 min): Peer review and reflection on presentation skills
+
+#### Week 8 (Oct 29): Sustainable Practices in Leadership
+
+- Part 1 (50 min): Deep dive into sustainable practices in various industries, driving progress with MVPs    
+- Part 2 (50 min): Operational and strategic leadership; Managing tasks and people
+- Lab/Tutorial (50 min): Practical application of sustainable strategies; How to give constructive feedback for sustainable leadership  
+
+#### Week 9 (Nov 05): Sustainable Leadership, Digitization and Technology
+
+- Part 1 (50 min): Sustainable leadership in a technological society
+- Part 2 (50 min): Challenges in sustainable leadership in real office/hybrid environments
+- Lab/Tutorial (50 min): Mid-course presentation of group project  
+    
+
+#### Week 10 (Nov 12): Sustainable Leadership in Practice
+
+- Part 1 (50 min): Ethical dilemmas and critical reflection in leadership
+- Part 2 (50 min): Fine-tuning a project to ensure the highest quality
+- Lab/Tutorial (50 min): Peer review and project refinement  
+
+#### Week 11 (Nov 19): Final Project Sprint
+
+- Part 1 (50 min): Peer review and project refinement
+- Part 2 (50 min): Rehearsals for final presentations
+- Lab/Tutorial (50 min): Feedback on rehearsal presentations  
+
+#### Week 12 (Nov 26): Final Presentations and Course Wrap-up
+
+- Part 1 (50 min): Final project presentations Part 1
+- Part 2 (50 min): Final project presentations Part 2
+- Lab/Tutorial (50 min): Final reflections and closing remarks
+
+## Course Assessment (detailed rubrics will be shared in week 2)  
+
+### Course Assessment Items
+  
+1. Reflective Diaries (20%) - due Weeks 3, 4, 5 and 7 (Friday 23:59) via Moodle
+	- Description: Four reflective entries (250-300 words each) throughout the semester, each covering all criteria.
+	- Criteria:
+		- Insightfulness: Demonstrates deep reflection on personal communication and team dynamics.
+		- Constructive Criticism: Identifies personal strengths and areas for improvement constructively.
+		- Application of Concepts: Incorporates course concepts on leadership and sustainability.
+		- Progress Tracking: Reflects growth and changes in approach over the course.
+	  - Scoring: Each entry is worth 5 points, covering all four criteria.  
+
+2.  Mid-Course Project Presentation (15%) - due Week 9 in lab/tutorial
+	- Description: Presentation of project progress, focusing on sustainability solutions.
+	- Criteria:
+		- Clarity and Organization (5 points): Clear, organized presentation structure.
+		- Content Relevance (5 points): Relevant and insightful content related to sustainability and leadership.
+		- Engagement (5 points): Engages audience effectively and answers questions confidently.  
+	  
+
+3. Final Group Project (30%) - due Week 12 in class
+	- Description: Comprehensive project on a sustainability challenge using leadership principles.
+	- Criteria:
+		- Task Completion and Quality (10 points): Completeness and quality of the project deliverables.
+		- Innovation and Creativity (10 points): Original thinking and novel solutions.
+	- Peer Evaluation (10 points): Contribution, leadership, and collaboration assessed by peers.  
+	  
+4. Quizzes on Readings (15%) - due weeks 8, 9 and 10 online
+	- Description: Three online, open-book quizzes on assigned materials
+	- Criteria:
+		- Accuracy (5 points each quiz): Correct answers and understanding of the reading material.  
+
+5. Final Reflection Paper (20%) - Due December 06, 23:59 via Moodle
+	- Description: Essay reflecting on personal growth in leadership throughout the course.
+	- Criteria:
+		- Insightfulness (5 points): Deep reflection on leadership journey and personal growth.
+		- Application of Course Concepts (5 points): Demonstrates how course concepts were applied in practice.
+
+  
+
+### General Grade Descriptors and Pathway to Success
+
+- A (90-100%):
+	- Demonstrates exceptional insight and originality.
+	- Reflects thorough understanding and application of course concepts.
+	- Shows significant personal growth and development.
+	- Excellent quality and creativity in projects and presentations.
+
+- B (80-89%):
+	- Demonstrates clear understanding and good insight.
+	- Effectively applies course concepts with minor gaps.
+	- Shows noticeable personal growth.
+	- High quality in projects and presentations with some creativity.
+
+- C (70-79%):
+	- Demonstrates basic understanding with some insight.
+	- Applies course concepts but with noticeable gaps.
+	- Shows some personal growth.
+	- Satisfactory quality in projects and presentations, limited creativity.
+
+- D (60-69%):
+	- Limited understanding and minimal insight.
+	- Struggles to apply course concepts.
+	- Minimal personal growth.
+	- Below-average quality in projects and presentations.
+
+- F (0-59%): 
+	- Lacks understanding and insight. 
+	- Fails to apply course concepts. 
+	- No evidence of personal growth. 
+	- Poor quality in projects and presentations.
+  
+## Appendix: Final Group Project Specifications
+
+**Objective**: Groups act as startups aka team of cofounders, developing a product, service, or concept that exemplifies innovative solutions in sustainability and showcases strong leadership qualities. The goal is to convincingly pitch their ideas to potential investors, demonstrating the project's alignment with sustainability goals and leadership dynamics.  
+  
+**Deliverables**: A detailed final presentation and a comprehensive project report that encapsulate:
+- theoretical foundations,
+- market research,
+- sustainability impact, and
+- leadership strategies.
+
+
+### Midterm Milestone:
+
+**Objective**: Evaluate progress and integrate initial feedback on concept/design development to ensure the project’s focus stays on sustainability and leadership.
+**Deliverables**: A progress report/presentation detailing initial concept validation, research findings, and strategies for further development.
+
+  
+
+### Project Phases:
+
+1. Concept Development:
+
+	**Objective**: Establish the foundation of the project by articulating the "why" – the theoretical basis for the project, its alignment with sustainability principles, and its overall feasibility.
+	
+	Required Research:
+	- Sustainability Alignment: How the project aligns with at least three of the 17 SDGs and its potential impact on sustainability.
+	- Feasibility Analysis: Preliminary research on the project's technical, economic, and social feasibility.
+	
+	**Deliverables**: A concept note that includes a clear statement of the project's sustainability alignment, theoretical underpinnings, and initial feasibility assessments.
+	
+2. Design and Development:
+
+	Objective: Detail the "how" – defining how the project will be implemented and how it differentiates from existing market offerings.
+	
+	Required Research:
+	
+	- Market Analysis: Comprehensive research on existing products/services in the market, identifying gaps and opportunities for innovation.
+	
+	- Competitive Differentiation: Explicit analysis of how the proposed solution differs from and improves upon existing solutions.
+	
+	Deliverables: A design document that includes diagrams, prototypes (if applicable), and detailed descriptions of the project's uniqueness and competitive advantages.
+  
+3. Marketing and Presentation Preparation:
+	- Prepare an engaging pitch that effectively communicates the project's value proposition, sustainability impact, and the team's leadership dynamics.
+	- Develop supporting materials such as slide decks, visual aids, or demos.
+
+4. Final Presentation:
+	- Present the developed product, service, or concept to the class and instructors, focusing on its sustainability credentials, market viability, and leadership effectiveness.
+	- Evaluation based on depth of research, clarity of presentation, innovation, and sustainability integration.
+	
+5. Peer and Instructor Feedback:
+	Receive constructive feedback emphasizing the research depth, sustainability integration, and leadership display.
+
+  
+
+### Assessment Criteria:
+
+- Research and Development: Depth and rigor of the research in both the concept and design phases.
+- Sustainability Integration: Effectiveness in addressing selected SDGs and demonstrating potential sustainability impact.
+- Leadership Demonstration: Ability to articulate and demonstrate leadership roles and contributions within the team.
+- Innovation and Market Differentiation: Clear demonstration of how the proposal stands out in the current market.
+- Presentation Effectiveness: Clarity, persuasiveness, and professionalism of the presentation.
+
+**Extras:**
+- Teams are encouraged to critically engage with their chosen topics, ensuring thorough research and innovative thinking.
+- The importance of both theoretical and practical applications should be highlighted, with solid evidence and reasoning for their strategies and decisions made along proposal/presentation development journey.
