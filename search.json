@@ -224,6 +224,125 @@
     "text": "“The Great Horse Manure Crisis of 1894”:\nIn the late 19th century, large cities faced a growing problem with horse manure from transportation. Some predicted London would be buried under 9 feet of manure by 1950. This crisis was averted not by better manure management, but by the invention of the automobile. It demonstrates how technological innovations can solve sustainability challenges in unexpected ways."
   },
   {
+    "objectID": "L3.html#lectures-sustainability-3x3-and-leadership",
+    "href": "L3.html#lectures-sustainability-3x3-and-leadership",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "Lectures: Sustainability (3x3) and Leadership",
+    "text": "Lectures: Sustainability (3x3) and Leadership\n\nPeople, Planet, Profit\nIdentifying leadership behavior - Act like a leader?"
+  },
+  {
+    "objectID": "L3.html#labs-a-and-b",
+    "href": "L3.html#labs-a-and-b",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "Labs: ‘A’ and ‘B’",
+    "text": "Labs: ‘A’ and ‘B’\n\nIdentify Apple Inc. Related Cases\nSustainability and Leadership in Action: What do you see"
+  },
+  {
+    "objectID": "L3.html#introduction",
+    "href": "L3.html#introduction",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "2: Introduction",
+    "text": "2: Introduction\n\nWhat is DEI?\n\nDiversity: Variety in human differences\nEquity: Fair treatment and access\nInclusion: Environment where all can thrive\n\nAI Ethics: Ensuring AI systems are fair and unbiased\nToday’s Focus: How DEI principles apply to AI development and deployment\nWhy are we having this session: DEI are being compressed into datasets, which then gets used to derive ‘insights’ for leaders to act upon."
+  },
+  {
+    "objectID": "L3.html#introduction-continued",
+    "href": "L3.html#introduction-continued",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "2.1: Introduction (Continued)",
+    "text": "2.1: Introduction (Continued)\n\nDirectly impacts an organization’s long-term viability and social responsibility.\nSustainable leaders must ensure that AI systems to be:\n\nfair,\nunbiased, and\nbeneficial to all stakeholders.\n\nIgnoring DEI in AI can lead to reputational damage, legal risks, and erosion of trust, undermining sustainability efforts.\nFrom a triple-bottom line perspective, this relates to:\n\npeople (ensuring AI benefits all segments of society),\nplanet (using AI ethically to address environmental challenges), and\nprofit (developing trustworthy AI for long-term business sustainability).\n\nKey competency for leaders aiming to build resilient, ethical, and sustainable organizations in our increasingly AI-driven world."
+  },
+  {
+    "objectID": "L3.html#the-problem-of-built-in-biases",
+    "href": "L3.html#the-problem-of-built-in-biases",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "3: The Problem of Built-in Biases",
+    "text": "3: The Problem of Built-in Biases\n\nSources of AI Bias:\n\nData Collection\nAlgorithm Design\nInterpretation of Results\n\nTeaser: “Did you know? An AI system once classified a turtle as a rifle. Let’s explore why!”"
+  },
+  {
+    "objectID": "L3.html#turtle-as-rifle-a-built-in-bias-example",
+    "href": "L3.html#turtle-as-rifle-a-built-in-bias-example",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "3.1 Turtle as Rifle, a built-in bias example",
+    "text": "3.1 Turtle as Rifle, a built-in bias example\n\nEvery viewpoint of turtle - or rifle?\nAthalye, A., Engstrom, L., Ilyas, A., & Kwok, K. (2018). Synthesizing Robust Adversarial Examples (No. arXiv:1707.07397). arXiv. http://arxiv.org/abs/1707.07397"
+  },
+  {
+    "objectID": "L3.html#interactive---spot-the-bias",
+    "href": "L3.html#interactive---spot-the-bias",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "4: Interactive - Spot the Bias",
+    "text": "4: Interactive - Spot the Bias\n\nInstructions: Identify potential biases in these scenarios\n\nA speech recognition system struggling with accents\nAn image dataset with 80% male CEOs\nA predictive policing algorithm focusing on certain neighborhoods\n\nDiscussion: What biases did you spot? How might they impact real-world applications?"
+  },
+  {
+    "objectID": "L3.html#section",
+    "href": "L3.html#section",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "",
+    "text": "Crop out whom?"
+  },
+  {
+    "objectID": "L3.html#case-study-1---twitters-image-cropping-algorithm",
+    "href": "L3.html#case-study-1---twitters-image-cropping-algorithm",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "5: Case Study 1 - Twitter’s Image Cropping Algorithm",
+    "text": "5: Case Study 1 - Twitter’s Image Cropping Algorithm\n\nThe Issue: Algorithm favored white faces over black faces\nRoot Cause: Focus on high contrast areas and facial features\nImpact: Reinforced racial biases in social media representation\nTwitter’s Response:\n\nMade algorithm choices more transparent\nEventually removed automatic cropping"
+  },
+  {
+    "objectID": "L3.html#case-study-2---amazons-ai-recruiting-tool",
+    "href": "L3.html#case-study-2---amazons-ai-recruiting-tool",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "6: Case Study 2 - Amazon’s AI Recruiting Tool",
+    "text": "6: Case Study 2 - Amazon’s AI Recruiting Tool\n\nThe Problem: AI tool discriminated against women\nKey Issues:\n\nTrained on 10 years of resumes, mostly from men\nPenalized resumes including “women’s”\nDowngraded graduates of women’s colleges\n\nAmazon’s Action: Discontinued the tool\nTeaser: “Imagine applying for your dream job, but the AI says no. Ever heard of the ‘this is an examplary candidate’ trick?”"
+  },
+  {
+    "objectID": "L3.html#leadership-in-dei-and-ai-ethics",
+    "href": "L3.html#leadership-in-dei-and-ai-ethics",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "7: Leadership in DEI and AI Ethics",
+    "text": "7: Leadership in DEI and AI Ethics\n\nLeaders’ Roles:\n\nChampion diversity in AI teams\nMandate thorough bias testing\nFoster a culture of ethical AI development\n\nWhy It Matters:\n\nBusiness: Broader market appeal, avoid PR disasters\nEthical: Fair opportunities for all\nSocial: Build trust in AI technologies\n\nReflection: “As a future leader, how will you promote DEI in tech?”"
+  },
+  {
+    "objectID": "L3.html#scenarios---possible",
+    "href": "L3.html#scenarios---possible",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "8: Scenarios - Possible",
+    "text": "8: Scenarios - Possible\nHere’re some very straight forward examples of AI-driven solutions that you could develop without having good DEI awareness:\n\n\n“The Resume Screener”: AI favors certain universities\n\n\n“The Loan Approver”: Lower approval rates for specific postcodes\n\n\n“The Employee Performance Predictor”: Bias against flexible workers\n\nDiscussion: Identify DEI breaches and propose solutions"
+  },
+  {
+    "objectID": "L3.html#scenarios---real",
+    "href": "L3.html#scenarios---real",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "9. Scenarios - Real",
+    "text": "9. Scenarios - Real\nNow let’s look at some real debacle of DEI failures by big corporates and highly-paid execs:\n\nGoogle Image Recognition Controversy (2015) : Tags\nAmazon’s AI Hiring Tool Bias (2018): Data\nMicrosoft’s Tay Chatbot Incident (2019): Guardrails/24h\nUber’s Facial Recognition System Failure (2021): Facial Rec Color"
+  },
+  {
+    "objectID": "L3.html#critical-thinking---the-complexities-of-fair-ai",
+    "href": "L3.html#critical-thinking---the-complexities-of-fair-ai",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "10: Critical Thinking - The Complexities of “Fair AI”",
+    "text": "10: Critical Thinking - The Complexities of “Fair AI”\nTitle: “Fair for Whom? Navigating the Complexities of DEI in AI”\n\nThe Dilemma of Fairness:\n\nWhat does “fair” mean in different contexts?\nCan optimizing for one group inadvertently disadvantage others?\n\nPotential Trade-offs:\n\nAccuracy vs. Inclusivity\nGeneralizability vs. Specificity\nSpeed of development vs. Thorough bias checking\n\nDiscussion Points:\n\n\n“Is ‘fair AI’ truly fair for everyone? Who might be left out?”\n\n\n“How do we balance addressing historical inequities without creating new ones?”\n\n\n“What are the risks of over-correcting in AI design?”"
+  },
+  {
+    "objectID": "L3.html#critical-thinking---the-complexities-of-fair-ai-continued",
+    "href": "L3.html#critical-thinking---the-complexities-of-fair-ai-continued",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "10.1: Critical Thinking - The Complexities of “Fair AI” (Continued)",
+    "text": "10.1: Critical Thinking - The Complexities of “Fair AI” (Continued)\n\nCase Example:\n\nAn AI healthcare diagnostic tool is adjusted to be more accurate for underrepresented groups\nResult: Slight decrease in accuracy for the majority group\nQuestion: “Is this ethical? How do we decide?”\n\nActivity: “Ethical AI Design Spectrum” (if we have enough time)\n\nPosition yourselves on a spectrum in the room\nOne end: “Maximum DEI considerations in AI, even if it slows development”\nOther end: “Rapid AI development with basic fairness checks”\nDiscuss reasons for their positions"
+  },
+  {
+    "objectID": "L3.html#balancing-act---doing-enough-but-not-too-much",
+    "href": "L3.html#balancing-act---doing-enough-but-not-too-much",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "11: Balancing Act - Doing Enough, But Not Too Much",
+    "text": "11: Balancing Act - Doing Enough, But Not Too Much\n\nKey Considerations:\n\nRegulatory Compliance: Meeting legal requirements\nEthical Imperatives: Going beyond the law to ensure fairness\nPractical Constraints: Time, resources, and technological limitations\n\nFinding the Balance:\n\nContinuous testing and iteration\nDiverse team input in all stages of development\nRegular ethical audits and transparency reports\n\nDiscussion Question: “How can we determine if we’ve done ‘enough’ to ensure fairness in AI systems?”\nThought Experiment: “The AI Fairness Meter”\n\nIf you could design a tool to measure AI fairness, what metrics would you include?\nHow would you weigh different aspects of fairness against each other?"
+  },
+  {
+    "objectID": "L3.html#conclusion-and-next-steps",
+    "href": "L3.html#conclusion-and-next-steps",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "12: Conclusion and Next Steps",
+    "text": "12: Conclusion and Next Steps\n\nKey Takeaways:\n\nAI bias is often subtle but impactful\nProactive DEI integration is crucial in AI development\nOngoing vigilance and testing are necessary\n\nYour Action Item: “One thing I’ll do to promote DEI in tech…”\nFurther Reading:\n\nOpen for a surprise: The endearing results of Twitter’s new image crop, VOX\nStudent proves Twitter algorithm ‘bias’ toward lighter, slimmer, younger faces, The Guardian\nNO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles, arxiv.org"
+  },
+  {
     "objectID": "L1.html#welcome-to-sustainable-leadership",
     "href": "L1.html#welcome-to-sustainable-leadership",
     "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
