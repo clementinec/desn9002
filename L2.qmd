@@ -1,5 +1,8 @@
 ---
 title: "Lecture 2: Sustainable Leadership Principles (with Examples)"
+subtitle: "Understanding and Applying Sustainable Development in the Real World"
+author: "Hongshan Guo"
+date: "2024-09-10"
 format: 
   revealjs:
     slide-level: 2
@@ -11,4 +14,220 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: true
+  beamer:
+    slide-level: 2
+    center: true
+    slide-number: true
+    width: 1600
+    height: 1200
+    embed-resources: true
+    navigation: horizontal
+    theme: AnnArbor
+    colortheme: lily
 ---
+
+## 1: Recap from last week
+![Recalling the three pillars: **Social, Environmental, Economic**](asset/threepillars.png)
+- Three pillars of sustainability
+- 17 SDGs
+- Logistics & introduction to group project
+
+## 2: Overview for this week
+- Refresh knowledge of SDGs and the three pillars of sustainability
+- Understand the triple bottom line concept
+- Explore key sustainability principles
+- Real-world examples of sustinable leadership principles
+
+## 3: Sustainable Development Goals (SDGs)
+![17 SDG Goals](asset/SDGs17.png){width="70%"}
+
+::: footer
+ "United Nations Sustainable Development Goals, adopted in 2015"
+:::
+
+## 4: Three Pillars of Sustainability
+- Title: "The Three Pillars of Sustainability"
+- Venn Diagram: Venn diagram with three overlapping circles
+  - Environmental Sustainability
+  - Social Sustainability
+  - Economic Sustainability
+
+![Venn Diagram of Sustainability](https://ugc.futurelearn.com/uploads/images/44/4c/444c0baa-7e22-4182-922b-222ddd8b53c2.png){width="40%"}
+
+## 5: From Pillars to Triple Bottom Line
+- Title: "Evolving Concepts: Pillars to Triple Bottom Line"
+- Three Pillars → Triple Bottom Line
+  - Social → <mark>People</mark>
+  - Environmental → <mark>Planet</mark>
+  - Economic → <mark>Profit</mark>
+
+## 6: The Triple Bottom Line
+- Brief explanation of each component:
+  - `People`: An organization's commitment to positively impacting society
+  - `Planet`: An organization's effect on the environment
+  - `Profit`: The financial return an orgnization generates for shareholders
+- **Interconnectedness and balance**
+
+## 7: Patagonia's Triple Bottom Line Approach, a Case Study
+
+![](asset/patagonia-logo-720.jpg){width="70%"}
+
+## 8: Patagonia's Triple Bottom Line Approach
+1. People (Social)
+   - Fair Labor Practices: Ensures fair wages and safe working conditions
+   - Activism: Supports environmental causes and encourages civic engagement
+
+2. Planet (Environmental)
+   - Sustainable Materials: Uses recycled and organic materials
+   - Repair and Reuse: "Worn Wear" program to extend product life
+
+3. Profit (Economic)
+   - Sustainable Business Model: Premium pricing for quality, durable products
+   - Long-term Growth: Brand loyalty through commitment to values
+
+**Prioritizing people and planet can lead to long-term profitability and brand strength.**
+
+## 7: Unilever Overview
+- Multinational consumer goods company
+- Launched the Sustainable Living Plan in 2010
+- Goal: Double the business while halving environmental footprint
+
+## 8: Unilever's Triple Bottom Line Approach
+
+1. People (Social)
+   - Enhancing Livelihoods: Reached 2.34 million smallholder farmers through initiatives
+   - Improving Health and Well-being: Helped 1.3 billion people improve health and hygiene
+
+2. Planet (Environmental)
+   - Sustainable Sourcing: 62% of agricultural raw materials sustainably sourced
+   - Waste Reduction: Achieved zero non-hazardous waste to landfill across global factory network
+
+3. Profit (Economic)
+   - Sustainable Living Brands: Grew 69% faster than the rest of the business
+   - Cost Savings: €1 billion saved through eco-efficiency measures in factories since 2008
+
+## 9: Unilever's Impact
+- Key Achievements: 
+  - Reduced CO2 emissions by 52% per tonne of production since 2008
+  - 56% of agricultural raw materials sustainably sourced
+  - 1.85 million women enabled to access initiatives aiming to promote their safety
+- Challenges:
+  - Plastic packaging remains an issue
+  - Balancing growth with absolute reduction in environmental impact
+
+
+## 10: Key Takeaways
+- Successful implementation of triple bottom line requires long-term commitment
+- Integration of sustainability into core business strategy is crucial
+- Transparency and measurable goals are important for accountability
+- Challenges remain, particularly in achieving absolute reductions while growing business
+
+# Going further into Principles
+
+## 11: Key Sustainability Principles
+- Precautionary Principle
+- Intergenerational Equity
+- **Systems Thinking**: Interconnected Everything
+- Circular Economy: _Cradle-to-Cradle_
+- Stakeholder Engagement
+
+## 12: Systems Thinking
+
+!["Thinking in Systems : A Primer" by Donella Meadows](https://kislayverma.com/wp-content/uploads/2020/08/thinking-in-systems-cover.png){height="90%"}
+
+## 12.1: Systems Thinking in Sustainability
+- Definition: Considering the `interconnectedness` of various elements within a system
+- Key aspects:
+  1. **Holistic** view
+  2. Feedback **loops**
+  3. Emergent properties
+  4. Non-linear relationships
+
+
+## 13: Applying Sustainability Principles in Decision-Making
+- Framework:
+  1. Identify the issue
+  2. Apply relevant principles
+  3. Consider stakeholders
+  4. Assess short and long-term impacts
+  5. Evaluate alternatives
+  6. Implement and monitor
+
+## 14: Case Study - Wildlife Conservation and Ecosystem Balance
+
+- Challenge: Balancing wildlife conservation with human needs in African savannas
+- Principles applied: Systems Thinking, Precautionary Principle, Stakeholder Engagement
+
+## 15: “Return of the Wolves”
+   When wolves were reintroduced to Yellowstone National Park in 1995, it triggered a trophic cascade that changed the rivers. The wolves kept elk populations in check, allowing trees to recover, which stabilized riverbanks and changed the course of rivers. This showcases the intricate connections in ecosystems.
+
+## 
+
+![ ](https://earthjustice.org/wp-content/uploads/infographic-wolves_1066.png){height="80%"}
+
+::: footer
+
+EARTHJUSTICE, Infographic: Wolves Keep Yellowstone in the Balance, February 2, 2015, Retrieved on Sep 8th, 2024 from https://earthjustice.org/feature/infographic-wolves-keep-yellowstone-in-the-balance
+
+:::
+
+# Concluding Notes
+
+## 16: Recap of Key Concepts
+
+- Sustainable Development Goals (SDGs)
+- Three Pillars of Sustainability
+  - Environmental
+  - Social
+  - Economic
+- Triple Bottom Line
+  - People
+  - Planet
+  - Profit
+- Key Sustainability Principles
+  - Systems Thinking
+  - Precautionary Principle
+  - Intergenerational Equity
+  - Resource Efficiency
+  - Stakeholder Engagement
+
+## 17: Applying Sustainability Principles in Practice
+
+- Systems Thinking as a Foundation
+  - Understanding interconnections
+  - Recognizing feedback loops
+  - Anticipating unintended consequences
+- Decision-Making Framework
+  1. Define the problem holistically
+  2. Engage stakeholders
+  3. Apply relevant sustainability principles
+  4. Assess short and long-term impacts
+  5. Implement and monitor adaptively
+
+
+## 18: Additional Resources
+
+- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org) (Circular Economy)
+- [World Business Council for Sustainable Development](https://www.wbcsd.org)
+- Recommended Reading:
+  - "Thinking in Systems" by Donella Meadows
+  - "Cradle to Cradle" by William McDonough & Michael Braungart
+  - "The Limits to Growth" by Donella Meadows, Dennis Meadows, Jørgen Randers
+
+# Additional Cases just for fun
+
+## The Three Sisters
+   - "The Three Sisters": Native American farming technique of planting corn, beans, and squash together. The corn provides a structure for the beans to climb, the beans fix nitrogen in the soil, and the squash spreads along the ground preventing weeds. It's a perfect example of _companion planting and systems thinking in agriculture_.
+
+   ![](https://www.fws.gov/sites/default/files/2022-06/three-sisters-planting--by-grace-rodgers-usfws.jpg){width="30%"}
+
+## The Duck Curve
+   - "The Duck Curve": California's energy grid faces a unique challenge called the "duck curve." As solar power increases during the day, traditional power plants need to rapidly ramp up production when the sun sets. The graph of this phenomenon looks like a duck, hence the name. It's a great example of the complexities in transitioning to renewable energy.
+
+   ![](https://elements.visualcapitalist.com/wp-content/uploads/2022/06/VCE-The-Duck-Curve-Mar-31.jpg){width="50%"}
+
+## "The Great Horse Manure Crisis of 1894": 
+  In the late 19th century, large cities faced a growing problem with horse manure from transportation. Some predicted London would be buried under 9 feet of manure by 1950. This crisis was averted not by better manure management, but by the invention of the automobile. It demonstrates how technological innovations can solve sustainability challenges in unexpected ways.
+
+  ![](https://static.fmgsuite.com/media/InlineContent/originalSize/f22368cb-6608-4310-900a-d3699a7a0ba6.jpg){width="50%"}

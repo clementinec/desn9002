@@ -1,20 +1,29 @@
 ---
-title: "Sustainable Leadership"
+title: "DESN9002: Sustainable Leadership"
 format: 
-  revealjs:
-    slide-level: 2
-    center: true
-    slide-number: true
-    theme: simple
-    width: 1600
-    height: 1200
-    preview-links: auto
-    embed-resources: true
-    incremental: true
+    html
 ---
 
-## Slides
-
+## Lecture Notes
 - [Lecture 1](L1.qmd)
 - [Lecture 2](L2.qmd)
+- [Lecture 3](L3.qmd)
 
+
+## Syllabus
+- [DESN9002 Syllabus](asset/syllabus_desn9002.pdf)
+
+## Time & Location
+- Lectures: 
+    - Tuesday 16:30~18:20
+    - **MB201**
+- Labs:
+    - Friday 09:30~11:20
+    - **CPD LG.08**
+
+
+## TA Line-up
+
+## Instructors
+- [Hongshan Guo](https://caadfutures2025.hku.hk/hongshanguo/)
+- [Andrew Pau Hoang](andrewph@hku.hk)
