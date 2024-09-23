@@ -11,7 +11,7 @@ format:
 
 
 ## Syllabus
-- [DESN9002 Syllabus](asset/syllabus_desn9002.pdf)
+- [DESN9002 Syllabus](docs/syllabus.pdf)
 
 ## Time & Location
 - Lectures: 
