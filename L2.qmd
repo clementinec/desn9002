@@ -14,16 +14,6 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: true
-  beamer:
-    slide-level: 2
-    center: true
-    slide-number: true
-    width: 1600
-    height: 1200
-    embed-resources: true
-    navigation: horizontal
-    theme: AnnArbor
-    colortheme: lily
 ---
 
 ## 1: Recap from last week
