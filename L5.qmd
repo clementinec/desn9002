@@ -1,0 +1,249 @@
+---
+title: "Lecture 5: DEI in Real-World Conversations: Detailed Slides"
+subtitle: "Understanding and Maneuvering around DEI issues"
+author: "Hongshan Guo"
+date: "2024-10-08"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+## 1: Recap from Reflective Diaries
+
+- Grades Released on Moodle
+- <span style="color:red">**AI Usage**</span> Detection on Turnitin:
+  - Grades pending for those above threshold
+  - We will accept re-submission by end-of-this week
+  - three strikes out
+
+## 2: Recap - Sustainability Principles
+- Economic: Long-term financial viability
+- Environmental: Protecting natural resources
+- Social: Promoting equity and well-being
+- Key Point: Sustainability requires balancing all three
+
+## 3: Leadership in Sustainability
+- Setting the vision
+- Allocating resources
+- Fostering a culture of responsibility
+- Making tough decisions for long-term success
+
+## 4: Common Reasons for Sustainability Failures
+- Short-term thinking vs. long-term planning
+- Ignoring changing market trends
+- Underestimating technological shifts
+- Neglecting stakeholder concerns
+- Lack of adaptability
+
+## 5: The Role of Leadership in Failures
+- Overconfidence in current success
+- Resistance to change
+- Inadequate risk assessment
+- Failure to innovate
+- Ethical lapses
+
+## 6: Short-term vs. Long-term Thinking
+- Short-term:
+  - Quick profits
+  - Meeting quarterly targets
+  - Cost-cutting
+
+- Long-term:
+  - Sustainable growth
+  - Investment in innovation
+  - Building stakeholder trust
+
+<span style="color:orange">**Balancing both is crucial for sustainability**</span>
+
+## 7: Case Study 1 - HTC's Rise and Fall
+- Founded in 1997, Taiwan
+- Peak: 2010-2011, global smartphone market leader
+- Innovative products: First Android smartphone, First 4G phone
+- Rapid decline: 2012 onwards
+
+## 8: HTC's Sustainability Failures
+- Economic:
+  - Over-reliance on single product line (smartphones)
+  - Failure to maintain competitive advantage
+
+- **Legal/Ethical**:
+  - Patent disputes in key markets (e.g., USA)
+  - Insufficient investment in R&D and legal protections
+
+- Social:
+  - Loss of brand loyalty and consumer trust
+  - Inability to adapt to changing consumer preferences
+
+- Technological:
+  - Falling behind in innovation
+  - Lack of product diversification
+
+## 9: Leadership Missteps at HTC
+- Short-term focus: Prioritizing immediate market share over long-term sustainability
+- Lack of foresight: Failure to anticipate and prepare for patent disputes
+- Inflexibility: Slow to adapt strategy in changing market conditions
+- Overconfidence: Underestimating competition (Apple, Samsung)
+
+## 10: Lessons from HTC's Decline
+- Importance of diversification in product offerings
+- Need for robust legal strategy in tech industry
+- Balancing innovation with market demands
+- Adapting quickly to changing consumer preferences
+- Investing in brand loyalty and customer relationships
+
+## 11: What do you think of the fall of HTC?
+- How could HTC have better prepared for patent disputes?
+- What strategies could have helped HTC maintain its market position?
+- How might HTC's story have been different with more sustainable leadership?
+
+## 12: Case Study 2 - The Enron Scandal
+- Founded in 1985, became America's 7th largest corporation
+- Energy, commodities, and services company
+- Claimed revenues of $101 billion in 2000
+- Filed for bankruptcy in December 2001
+
+## 13: The Fall of Enron
+- Used mark-to-market accounting to inflate profits
+- Created off-the-books entities to hide debts and toxic assets
+- Pressured auditing firm to ignore issues
+- Stock price fell from $90 to less than $1
+- $74 billion in shareholder value lost
+
+## 14: Sustainability Failures in Enron's Case
+- Economic:
+  - Fraudulent financial reporting
+  - Unsustainable business model relying on accounting tricks
+
+- Ethical:
+  - Widespread corporate fraud and corruption
+  - Executives enriching themselves at shareholders' expense
+
+- Governance:
+  - Failure of board oversight
+  - Collusion with auditors (Arthur Andersen)
+
+- Social:
+  - Thousands of employees lost jobs and pensions
+  - Erosion of public trust in corporate America
+
+## 15: Leadership Lessons from Enron's Collapse
+- Importance of ethical leadership at all levels
+- Need for robust corporate governance and oversight
+- Danger of prioritizing short-term gains over long-term sustainability
+- Value of transparency in business operations and reporting
+- Impact of corporate culture on employee behavior
+
+## 16: Comparative Discussion
+- How does Enron's case differ from HTC's?
+- What similarities can we draw between the two despite different sectors?
+- How do these cases illustrate different aspects of sustainability?
+- What role did leadership play in each company's downfall?
+
+## 17: Comparing HTC and Enron
+- HTC: Market adaptation failure
+  - Primarily economic and technological sustainability issues
+  - Leadership failed to adapt to changing market dynamics
+- Enron: Ethical and governance failure
+  - Primarily ethical and financial sustainability issues
+  - Leadership actively engaged in fraudulent practices
+
+Common threads:
+- Short-term thinking over long-term sustainability
+- Failure of leadership to address core issues
+- Neglect of key stakeholder interests
+For creating education-oriented slides about the CIA’s post-9/11 torture report through the lens of sustainability and ESG (Environmental, Social, Governance) for undergraduate students, here’s how you could frame the content:
+
+## **18: Final Case Study: The  Report**
+The CIA Post-9/11 Torture Report: A Sustainability and ESG Perspective
+[Poster and Video]
+- **Context:**  
+   After the events of 9/11, the U.S. government implemented enhanced interrogation techniques (EITs) to extract information from detainees, many of which were widely considered torture. This raised ethical, social, and legal concerns and impacted global relations.  
+   **Key Document:** The Senate Intelligence Committee’s report, released in 2014, detailed the CIA’s use of these techniques, sparking global debates about human rights and national security.
+
+## **19: Dissecting the Case – Triple Bottom Line Framework**
+
+- **Social Impact (People):**  
+  - **Violation of Human Rights:** Torture practices caused severe psychological harm to detainees and eroded global trust in U.S. human rights advocacy.
+  - **Erosion of Trust in Institutions:** Public trust in government institutions diminished due to unethical conduct.
+  - **Moral Injury:** Those tasked with carrying out these practices faced psychological consequences.
+  
+- **Environmental Impact (Planet):**  
+  - **Military Operations’ Environmental Footprint:** Global detention and interrogation operations required resources that contribute to environmental degradation, indirectly affecting conflict regions.
+  - **Indirect Impact of War Operations:** The broader “war on terror” had environmental consequences, including the destruction of ecosystems and increased pollution in affected regions.
+
+- **Economic Impact (Profit):**  
+  - **Program Costs:** Millions spent on the EIT program diverted resources that could have been better allocated to other areas like intelligence innovation.
+  - **Reputational Damage Costs:** Legal and diplomatic fallout damaged U.S. global reputation and made future negotiations more difficult.
+  
+---
+
+## **20: Dissecting the Case – ESG Perspective**
+
+- **Social (S):**  
+  - **Governance Failures in Oversight:** The lack of sufficient legal and ethical oversight allowed the violation of detainees' rights.
+  - **Social Justice and Global Human Rights:** Analyze how this program conflicted with international human rights norms and its impact on global social governance.
+  
+- **Governance (G):**  
+  - **Breach of Legal Protocols:** Review how the lack of accountability and transparency in U.S. governance structures exacerbated long-term consequences.
+  - **Global Diplomatic Strain:** How did these actions challenge the U.S.'s ability to act as a moral leader in the international arena?
+  
+- **Environmental (E):**  
+  - Indirect impacts on regions where conflicts, detention sites, and interrogation facilities were located—resource-heavy military operations, global travel for detainees, etc.
+
+
+## 21.1: Socratic Prompts for Discussion
+- Social Impact – Rights vs. Security
+  - When, if ever, is it justifiable to compromise human rights in the pursuit of national security?  
+  - What does this case suggest about the tension between ethical standards and government actions during crises?  
+  - Who ultimately gets to decide where the balance between security and ethics lies, and how might these decisions affect society long-term?
+
+- Long-term Social Sustainability  
+  - What are the consequences of eroding trust in governmental institutions?  
+  - How might continuous ethical compromises affect the sustainability of a nation’s moral and legal systems?  
+  - In what ways could society rebuild trust in its institutions after such events, and is that always possible?
+
+- Governance Failures
+  - What role does governance play in ensuring accountability for actions like those described in this case?  
+  - How might we define "good governance" in this context, and what mechanisms could have been in place to prevent these decisions?  
+  - To what extent is transparency essential for sustainable governance, and can there be too much transparency?
+
+## 21.2: Socratic Prompts for Discussion
+
+- Economic Impacts – Cost of Reputational Damage
+  - How do we measure the long-term costs of reputational damage on a nation’s global standing and diplomatic relations?  
+  - What does this case suggest about the financial trade-offs between immediate national security actions and the longer-term economic repercussions?  
+  - Could the economic costs of repairing damaged relationships and restoring trust exceed the benefits gained from these controversial actions?
+
+- Environmental Impact – Indirect Footprint  
+  - How do military and intelligence operations, even those unrelated to environmental concerns, contribute to a nation’s overall environmental footprint?  
+  - In situations driven by national security, should environmental sustainability still be considered? If so, how do we balance it with other pressing priorities?  
+  - Could a more sustainable approach have been taken in the logistics and operations surrounding the detention and interrogation sites? How might this have influenced the broader outcomes?
+
+## **22: Questions through Reflection – Exploring Alternative Solutions**
+
+- Explore **alternative, more sustainable approaches** to the situation. 
+- How could you balance national security with ethical, social, and environmental concerns?
+   - **1:** What alternative approaches could the U.S. government have taken to gather intelligence while respecting human rights?  
+   - **2:** What does it mean to adopt a sustainable mindset in the realm of national security and intelligence operations?  
+   - **3:** How might increased transparency and stricter governance frameworks affect decision-making in future crises? Would this strengthen or weaken national security efforts?
+
+---
+## 24: Wrapping Up - The Report
+- What leadership principles do you see in the undertakings of the plot development?
+- What led to the utter failure of the governance system?
+- Why do you think the movie evolved into what?
+
+
+## 25: Conclusion
+- Sustainability is integral to long-term business success
+- Leadership plays a crucial role in ensuring sustainable practices
+- Learning from past failures helps shape better future leaders
+- Your actions as future leaders can drive positive change in business and society

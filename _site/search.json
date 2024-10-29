@@ -1,52 +1,556 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "L8.html#logistics",
+    "href": "L8.html#logistics",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "0: Logistics",
+    "text": "0: Logistics\n\nReflective Diary 4 Released. Due Date extended to Nov 3rd, 11:59 PM\nQuizz 1 Released. Due Date Nov 2nd, 11:59 AM\nAnnoucement on Deliverables vs. Assessment Items:\n\nAssessment items on syllabus is finalized and graded\nDeliverables are recommended checkpoints that can be included in your presentation\n\nnot required/mandatory\nnot graded\n\n\nDue next week (W9):\n\nQ2\nMid-Project Presentation (your own format): Criteria as outlined in syllabus."
+  },
+  {
+    "objectID": "L8.html#peer-evaluation-overview",
+    "href": "L8.html#peer-evaluation-overview",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "1.1: Peer-Evaluation Overview",
+    "text": "1.1: Peer-Evaluation Overview\n\nSustainable Leadership Currency (SLC) Peer Evaluation\n\nInvesting as Co-Founders: Group-Based Peer Evaluation\n\nWhat is SLC?\n\nEach group receives 100 coins to invest in other groups’ projects.\n\nWhy This Approach?\n\nSimulates real-world investment decisions.\nEncourages strategic thinking and collaboration within your group.\n\nHow to Allocate Coins:\n\nStep 1: Review all other projects thoroughly.\nStep 2: Discuss as a group and decide how to distribute your 100 coins.\nStep 3: Submit your allocations via [Platform] by [Deadline].\n\nEvaluation Criteria to Consider:\n\nInnovation and Sustainability\nFeasibility and Viability\nPresentation and Communication\nTeamwork and Leadership\nPersonal Growth and Reflection"
+  },
+  {
+    "objectID": "L8.html#peer-evaluation-overview-1",
+    "href": "L8.html#peer-evaluation-overview-1",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "1.2: Peer-Evaluation Overview",
+    "text": "1.2: Peer-Evaluation Overview\n\nGuidelines:\n\nNo Self-Investment\nBe Strategic and Fair\nAvoid Collusion\nWithin private group channels to TAs in Slack\n\nImpact on Grades:\n\nThe total coins received will affect 10% of your final project grade. Work as a team and think as a team."
+  },
+  {
+    "objectID": "L8.html#session-overview",
+    "href": "L8.html#session-overview",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "2: Session Overview",
+    "text": "2: Session Overview\n\nTimeline and Milestones\nProject and Time Management\nMinimum Viable Product (MVP)\nDelivery vs. Perfection\nInteractive activities and real-world examples"
+  },
+  {
+    "objectID": "L8.html#the-tale-of-two-projects",
+    "href": "L8.html#the-tale-of-two-projects",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "3: The Tale of Two Projects",
+    "text": "3: The Tale of Two Projects\n\nProject A: Stuck in perfection loop\n\nEndless revisions, missed deadlines\nNever launched\n\nProject B: MVP approach\n\nQuick initial release, iterative improvements\nSuccessful market presence Lesson: Sometimes, done is better than perfect"
+  },
+  {
+    "objectID": "L8.html#the-tale-of-two-mail-services-googles-gmail-project-b-mvp-approach",
+    "href": "L8.html#the-tale-of-two-mail-services-googles-gmail-project-b-mvp-approach",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "3.1.1: The Tale of Two Mail Services: Google’s Gmail (Project B: MVP Approach)",
+    "text": "3.1.1: The Tale of Two Mail Services: Google’s Gmail (Project B: MVP Approach)\n\nLaunched in 2004 as invite-only beta\nInitial MVP features:\n\n1GB storage (revolutionary at the time)\nConversation view for emails\nPowerful search functionality\n\nIterative improvements over time:\n\nGradually added features based on user feedback\nContinuously refined user interface\n\nOutcome:\n\nRapid user adoption and growth\nBecame one of the most popular email services globally"
+  },
+  {
+    "objectID": "L8.html#the-tale-of-two-mail-services-yahoo-mail-project-a-feature-heavy-approach",
+    "href": "L8.html#the-tale-of-two-mail-services-yahoo-mail-project-a-feature-heavy-approach",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "3.1.2: The Tale of Two Mail Services: Yahoo Mail (Project A: Feature-Heavy Approach)",
+    "text": "3.1.2: The Tale of Two Mail Services: Yahoo Mail (Project A: Feature-Heavy Approach)\n\nEstablished email service trying to compete\nDevelopment approach:\n\nFocused on matching and exceeding Gmail’s features\nAimed for a “perfect” product before major updates\nSlower to implement new technologies (e.g., AJAX)\n\nChallenges faced:\n\nLonger development cycles\nDifficulty in quickly responding to user needs\nStruggled to differentiate from competitors\n\nOutcome:\n\nGradually lost market share to Gmail\nPlayed catch-up in terms of features and user experience"
+  },
+  {
+    "objectID": "L8.html#comparison-table-gmail-vs.-yahoo-mail",
+    "href": "L8.html#comparison-table-gmail-vs.-yahoo-mail",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "3.2 Comparison Table: GMail vs. Yahoo Mail",
+    "text": "3.2 Comparison Table: GMail vs. Yahoo Mail\n\n\n\n\n\n\n\n\nAspect\nYahoo Mail (Established Approach)\nGoogle’s Gmail (MVP Approach)\n\n\n\n\nLaunch Date\n1997\n2004\n\n\nInitial Approach\nComprehensive webmail service\nInvite-only beta with core features\n\n\nKey Features at Gmail’s Launch\n- Limited storage (4MB)- Traditional inbox view\n- 1GB storage- Conversation view- Powerful search\n\n\nDevelopment Approach\nGradual feature additions\nRapid iterations based on user feedback\n\n\nAdaptation to New Tech\nSlower to adopt new technologies\nQuick implementation of AJAX and other innovations\n\n\nResponse to Competition\nReactive: Tried to match Gmail’s features\nProactive: Set new standards in email services\n\n\nLong-term Outcome\nStruggled to maintain market position\nBecame one of the most popular email services"
+  },
+  {
+    "objectID": "L8.html#key-takeaways",
+    "href": "L8.html#key-takeaways",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "Key Takeaways:",
+    "text": "Key Takeaways:\n\nMVP allows faster market entry and user feedback\nIterative improvements can lead to better user satisfaction\nFocusing on core functionality can be more effective than trying to have every feature at launch"
+  },
+  {
+    "objectID": "L8.html#timeline-and-milestones",
+    "href": "L8.html#timeline-and-milestones",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "4: Timeline and Milestones",
+    "text": "4: Timeline and Milestones\n\nProject timeline: Roadmap to success\nMilestones: Checkpoints for progress\nKey elements:\n\nRealistic deadlines\nClear objectives\nFlexibility for adjustments"
+  },
+  {
+    "objectID": "L8.html#interactive-milestone-mapping",
+    "href": "L8.html#interactive-milestone-mapping",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "5: Interactive: Milestone Mapping",
+    "text": "5: Interactive: Milestone Mapping\n\nTentative Groups: Sit together and work out what are the current deliverables\nCreate a timeline for launching an app for your planned start-up\nIdentify 5 key milestones\n\n\nRank them by importance\nWhat is the minimum viable product that you believe needs to be delivered?\n\n\nTime: 5 minutes\nWe’ll discuss common pitfalls after"
+  },
+  {
+    "objectID": "L8.html#project-and-time-management",
+    "href": "L8.html#project-and-time-management",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "6: Project and Time Management",
+    "text": "6: Project and Time Management\n\nProject Management Principles:\n\nClear goals and scope\nResource allocation\nRisk management\nCommunication\n\nTime Management Techniques:\n\nPomodoro Technique: time-box everything\nTime blocking: Focus, focus, focus\nPriority matrix"
+  },
+  {
+    "objectID": "L8.html#the-procrastination-trap",
+    "href": "L8.html#the-procrastination-trap",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "7: The Procrastination Trap",
+    "text": "7: The Procrastination Trap\nTRex’s Group Project Dilemma - Waited until the last minute - Overwhelmed by task size - Solution: Break project into smaller tasks - Result: Completed on time with less stress Lesson: Start early, work consistently"
+  },
+  {
+    "objectID": "L8.html#minimum-viable-product-mvp",
+    "href": "L8.html#minimum-viable-product-mvp",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "8: Minimum Viable Product (MVP)",
+    "text": "8: Minimum Viable Product (MVP)\n\nDefinition: Simplest version of a product/service that can be released\nPurpose:\n\nTest core functionality\nGather user feedback\nIterate quickly\n\nExamples:\n\nDropbox: Simple video demo\nAirbnb: Basic website for SXSW conference"
+  },
+  {
+    "objectID": "L8.html#interactive-build-your-mvp",
+    "href": "L8.html#interactive-build-your-mvp",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "9: Interactive: Build Your MVP",
+    "text": "9: Interactive: Build Your MVP\nActivity Instructions: 1. Tentative Groups: Sit together and work out what are the current deliverables 2. Product idea: Your current proposition 3. Design an MVP in 7 minutes 4. Consider: Core features? Target users? Feedback mechanism? 5. Try preparing a 30-second pitch"
+  },
+  {
+    "objectID": "L8.html#mvp-success-stories",
+    "href": "L8.html#mvp-success-stories",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "10: MVP Success Stories",
+    "text": "10: MVP Success Stories\n\nAmazon: Online bookstore → E-commerce giant\nInstagram: Photo-sharing app → Social media platform\nZappos: Basic website → Online shoe empire Key takeaway: Start simple, evolve based on feedback"
+  },
+  {
+    "objectID": "L8.html#delivery-vs.-perfection",
+    "href": "L8.html#delivery-vs.-perfection",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "11: Delivery vs. Perfection",
+    "text": "11: Delivery vs. Perfection\n\n“Done is better than perfect” - Sheryl Sandberg\nPareto Principle (80/20 Rule):\n\n80% of effects come from 20% of causes\nIn projects: 80% of value from 20% of features\n\nBenefits of timely delivery:\n\nFaster market entry\nEarlier user feedback\nIncreased motivation"
+  },
+  {
+    "objectID": "L8.html#the-perfectionists-dilemma",
+    "href": "L8.html#the-perfectionists-dilemma",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "12: The Perfectionist’s Dilemma",
+    "text": "12: The Perfectionist’s Dilemma\nCase Study: The Never-Ending Website Redesign - Company X delayed launch for “one more feature” - Competitors entered market - Lesson: Perfection can be the enemy of progress"
+  },
+  {
+    "objectID": "L8.html#balancing-act",
+    "href": "L8.html#balancing-act",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "13: Balancing Act",
+    "text": "13: Balancing Act\n\nAim for high quality, but recognize diminishing returns\nStrategies:\n\nSet clear “good enough” criteria\nUse iterative development\nPrioritize features ruthlessly\nEmbrace user feedback for improvements"
+  },
+  {
+    "objectID": "L8.html#project-management-methodologies",
+    "href": "L8.html#project-management-methodologies",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "14: Project Management Methodologies",
+    "text": "14: Project Management Methodologies\nAgile Methodology\n\nIterative approach to project management\nKey principles:\n\nAdaptive planning\nEvolutionary development\nEarly delivery\nContinuous improvement\n\nBenefits: Flexibility, faster delivery, better quality\n\nScrum Framework (An Agile methodology)\n\nRoles: Product Owner, Scrum Master, Development Team\nKey components:\n\nSprint: Short, time-boxed periods (usually 2-4 weeks)\nDaily Scrum: Brief daily team meetings\nSprint Review and Retrospective\n\nBenefits: Improved teamwork, regular feedback, faster problem-solving\n\nOthers:\n\nKanban: Visual workflow management, focuses on limiting work in progreess: most commonly trello\nWaterfall: Sequential, linear approach, needs well-defined phases (req, design, implementation, verificaiton, maintenance)"
+  },
+  {
+    "objectID": "L8.html#project-management-tools",
+    "href": "L8.html#project-management-tools",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "15: Project Management Tool(s)",
+    "text": "15: Project Management Tool(s)\nTraditional: Gantt Chart\n\nVisual representation of a project schedule\nShows:\n\nTasks or activities\nStart and end dates\nDependencies between tasks\n\nBenefits: Clear timeline visualization, helps identify potential bottlenecks\n\nComparison\n\n\n\n\n\n\n\n\nAspect\nAgile/Scrum\nTraditional (e.g., using Gantt charts)\n\n\n\n\nFlexibility\nHigh\nLower\n\n\nPlanning Detail\nEvolves over time\nDetailed upfront\n\n\nBest for\nComplex, innovative projects\nWell-defined, predictable projects\n\n\nClient Involvement\nContinuous\nMainly at milestones"
+  },
+  {
+    "objectID": "L8.html#other-project-management-tools",
+    "href": "L8.html#other-project-management-tools",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "16: Other Project Management Tools",
+    "text": "16: Other Project Management Tools\nTechniques:\n\nPERT Charts\nCritical Path Method\nWork Breakdown Structure\nRisk Management Matrix\n\nSoftwares:\n\nTrello: Kanban-style boards for task management\nJira: Popular for software development and agile projects\nAsana: Collaborative work management platform\nSlack: Team communication and project coordination\nMicrosoft Project"
+  },
+  {
+    "objectID": "L8.html#key-takeaways-1",
+    "href": "L8.html#key-takeaways-1",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "14: Key Takeaways",
+    "text": "14: Key Takeaways\n\nSet clear timelines and milestones\nUse effective project and time management techniques\nEmbrace the MVP concept for faster learning and iteration\nRemember: Done is often better than perfect\nBalance quality with timely delivery"
+  },
+  {
+    "objectID": "L8.html#qa-and-next-steps",
+    "href": "L8.html#qa-and-next-steps",
+    "title": "Lecture 8: Group Formation and Team Development (Cont’d) & Sustainable Practices in Leadership (MVP)",
+    "section": "15: Q&A and Next Steps",
+    "text": "15: Q&A and Next Steps\n\nAny questions about today’s concepts?\nFor next week:\n\nThink about how you can apply MVP to your group project\nCome prepared to discuss your project timeline"
+  },
+  {
+    "objectID": "L1.html#welcome-to-sustainable-leadership",
+    "href": "L1.html#welcome-to-sustainable-leadership",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Welcome to Sustainable Leadership",
+    "text": "Welcome to Sustainable Leadership\n\nGreetings and Introduction\nSDGs: What they are and what do we know about them?\nLogistics Overview"
+  },
+  {
+    "objectID": "L1.html#intro",
+    "href": "L1.html#intro",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Intro",
+    "text": "Intro"
+  },
+  {
+    "objectID": "L1.html#who-we-are-instructors",
+    "href": "L1.html#who-we-are-instructors",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Who we are: Instructors",
+    "text": "Who we are: Instructors\n\nHongshan: Expertise in sustainable design and technical/practical project planning.\n\nPhD in Architecture, Career Data Scientist, Bank Veteran\n\nAndrew: Specialist in leadership development and organizational behavior.\n\nPhD in Social Science, Director of Interdisciplinary Studies, Leadership (Life) Coach.\n\nNote: TA introductions forthcoming, but dedicated personnels on:\n\nMarketing of projects\nTechnology transfer\nFounders of startups and more."
+  },
+  {
+    "objectID": "L1.html#who-we-are-class-composition-poll",
+    "href": "L1.html#who-we-are-class-composition-poll",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Who we are: Class Composition Poll",
+    "text": "Who we are: Class Composition Poll\n\nTool: Mentimeter\nBiggest Question: “What is your main interest in taking this course?”\nPurpose: Let us know what your desired takeaways from this class."
+  },
+  {
+    "objectID": "L1.html#deep-dive-into-sustainability",
+    "href": "L1.html#deep-dive-into-sustainability",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Deep Dive into Sustainability",
+    "text": "Deep Dive into Sustainability\n\nDefinition: What does sustainability mean in various contexts?\nImportance: Why is sustainability crucial today?"
+  },
+  {
+    "objectID": "L1.html#there-pillars-of-sustainability",
+    "href": "L1.html#there-pillars-of-sustainability",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "There Pillars of Sustainability",
+    "text": "There Pillars of Sustainability\n\n\nThree pillars of sustainability, bullet points credits: Forrest Meggers, ENE202 Design with Systems, Princeton University, 2020."
+  },
+  {
+    "objectID": "L1.html#how-can-a-sustainable-system-develop",
+    "href": "L1.html#how-can-a-sustainable-system-develop",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "How can a sustainable system develop?",
+    "text": "How can a sustainable system develop?\n\n\nExecutive Summary of TIMES OF CRISIS, TIMES OF CHANGE, Global Sustainable Development Report (GSDR) 2023, United Nations"
+  },
+  {
+    "objectID": "L1.html#sustainability-on-hku-campus",
+    "href": "L1.html#sustainability-on-hku-campus",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Sustainability on HKU Campus",
+    "text": "Sustainability on HKU Campus\n\nEstablished in 2005\nWorking with the Estate Office\nQuotes interim target to reduce Hong Kong’s carbon emissions by 50%:\n\nThe University of Hong Kong is committed to developing and managing its activities in a manner that, in so far as possible, protects the environment, reduces its ecological footprint and supports the transition to sustainable development, with our best endeavour to support Hong Kong government's climate targets to achieve carbon neutrality before 2050"
+  },
+  {
+    "objectID": "L1.html#designed-to-compel---but-if-you-were-to-pick-one",
+    "href": "L1.html#designed-to-compel---but-if-you-were-to-pick-one",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Designed to compel - but if you were to pick one?",
+    "text": "Designed to compel - but if you were to pick one?\nLet’s go directly to mentimeter. Visit www.menti.com, use code 5406 8229."
+  },
+  {
+    "objectID": "L1.html#back-to-9002-form-of-course-delivery",
+    "href": "L1.html#back-to-9002-form-of-course-delivery",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Back to 9002: Form of Course Delivery",
+    "text": "Back to 9002: Form of Course Delivery\n\nLectures:\n\nTuesdays, 16:30-18:20 MB201\nAlternating sustainability/leadership lectures\n\nLabs:\n\nFridays, Enroll 1 of 2 sessions between 09:30-11:20\nMini-lecture and in-lab activities led by the TAs\n\nOther Communications:\n\nAnnoucements/Assignments: Moodle"
+  },
+  {
+    "objectID": "L1.html#closing-on-sustainability-and-what-to-expect-next-week",
+    "href": "L1.html#closing-on-sustainability-and-what-to-expect-next-week",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Closing on Sustainability and What to Expect Next Week",
+    "text": "Closing on Sustainability and What to Expect Next Week\n\nPreview for Next Week: Topics for the next lecture.\nEncouragement: Think about SDGs in relation to your projects."
+  },
+  {
+    "objectID": "L1.html#thank-you-and-break-time",
+    "href": "L1.html#thank-you-and-break-time",
+    "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
+    "section": "Thank You and Break time!",
+    "text": "Thank You and Break time!"
+  },
+  {
+    "objectID": "L3.html#lectures-sustainability-3x3-and-leadership",
+    "href": "L3.html#lectures-sustainability-3x3-and-leadership",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "Lectures: Sustainability (3x3) and Leadership",
+    "text": "Lectures: Sustainability (3x3) and Leadership\n\nPeople, Planet, Profit\nIdentifying leadership behavior - Act like a leader?"
+  },
+  {
+    "objectID": "L3.html#labs-a-and-b",
+    "href": "L3.html#labs-a-and-b",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "Labs: ‘A’ and ‘B’",
+    "text": "Labs: ‘A’ and ‘B’\n\nIdentify Apple Inc. Related Cases\nSustainability and Leadership in Action: What do you see"
+  },
+  {
+    "objectID": "L3.html#introduction",
+    "href": "L3.html#introduction",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "2: Introduction",
+    "text": "2: Introduction\n\nWhat is DEI?\n\nDiversity: Variety in human differences\nEquity: Fair treatment and access\nInclusion: Environment where all can thrive\n\nAI Ethics: Ensuring AI systems are fair and unbiased\nToday’s Focus: How DEI principles apply to AI development and deployment\nWhy are we having this session: DEI are being compressed into datasets, which then gets used to derive ‘insights’ for leaders to act upon."
+  },
+  {
+    "objectID": "L3.html#introduction-continued",
+    "href": "L3.html#introduction-continued",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "2.1: Introduction (Continued)",
+    "text": "2.1: Introduction (Continued)\n\nDirectly impacts an organization’s long-term viability and social responsibility.\nSustainable leaders must ensure that AI systems to be:\n\nfair,\nunbiased, and\nbeneficial to all stakeholders.\n\nIgnoring DEI in AI can lead to reputational damage, legal risks, and erosion of trust, undermining sustainability efforts.\nFrom a triple-bottom line perspective, this relates to:\n\npeople (ensuring AI benefits all segments of society),\nplanet (using AI ethically to address environmental challenges), and\nprofit (developing trustworthy AI for long-term business sustainability).\n\nKey competency for leaders aiming to build resilient, ethical, and sustainable organizations in our increasingly AI-driven world."
+  },
+  {
+    "objectID": "L3.html#the-problem-of-built-in-biases",
+    "href": "L3.html#the-problem-of-built-in-biases",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "3: The Problem of Built-in Biases",
+    "text": "3: The Problem of Built-in Biases\n\nSources of AI Bias:\n\nData Collection\nAlgorithm Design\nInterpretation of Results\n\nTeaser: “Did you know? An AI system once classified a turtle as a rifle. Let’s explore why!”"
+  },
+  {
+    "objectID": "L3.html#turtle-as-rifle-a-built-in-bias-example",
+    "href": "L3.html#turtle-as-rifle-a-built-in-bias-example",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "3.1 Turtle as Rifle, a built-in bias example",
+    "text": "3.1 Turtle as Rifle, a built-in bias example\n\nEvery viewpoint of turtle - or rifle?\nAthalye, A., Engstrom, L., Ilyas, A., & Kwok, K. (2018). Synthesizing Robust Adversarial Examples (No. arXiv:1707.07397). arXiv. http://arxiv.org/abs/1707.07397"
+  },
+  {
+    "objectID": "L3.html#interactive---spot-the-bias",
+    "href": "L3.html#interactive---spot-the-bias",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "4: Interactive - Spot the Bias",
+    "text": "4: Interactive - Spot the Bias\n\nInstructions: Identify potential biases in these scenarios\n\nA speech recognition system struggling with accents\nAn image dataset with 80% male CEOs\nA predictive policing algorithm focusing on certain neighborhoods\n\nDiscussion: What biases did you spot? How might they impact real-world applications?"
+  },
+  {
+    "objectID": "L3.html#section",
+    "href": "L3.html#section",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
     "section": "",
-    "text": "About this site"
+    "text": "Crop out whom?"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "",
-    "text": "Lecture 1\nLecture 2\nLecture 3"
+    "objectID": "L3.html#case-study-1---twitters-image-cropping-algorithm",
+    "href": "L3.html#case-study-1---twitters-image-cropping-algorithm",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "5: Case Study 1 - Twitter’s Image Cropping Algorithm",
+    "text": "5: Case Study 1 - Twitter’s Image Cropping Algorithm\n\nThe Issue: Algorithm favored white faces over black faces\nRoot Cause: Focus on high contrast areas and facial features\nImpact: Reinforced racial biases in social media representation\nTwitter’s Response:\n\nMade algorithm choices more transparent\nEventually removed automatic cropping"
   },
   {
-    "objectID": "index.html#lecture-notes",
-    "href": "index.html#lecture-notes",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "",
-    "text": "Lecture 1\nLecture 2\nLecture 3"
+    "objectID": "L3.html#case-study-2---amazons-ai-recruiting-tool",
+    "href": "L3.html#case-study-2---amazons-ai-recruiting-tool",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "6: Case Study 2 - Amazon’s AI Recruiting Tool",
+    "text": "6: Case Study 2 - Amazon’s AI Recruiting Tool\n\nThe Problem: AI tool discriminated against women\nKey Issues:\n\nTrained on 10 years of resumes, mostly from men\nPenalized resumes including “women’s”\nDowngraded graduates of women’s colleges\n\nAmazon’s Action: Discontinued the tool\nTeaser: “Imagine applying for your dream job, but the AI says no. Ever heard of the ‘this is an examplary candidate’ trick?”"
   },
   {
-    "objectID": "index.html#syllabus",
-    "href": "index.html#syllabus",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "Syllabus",
-    "text": "Syllabus\n\nDESN9002 Syllabus"
+    "objectID": "L3.html#leadership-in-dei-and-ai-ethics",
+    "href": "L3.html#leadership-in-dei-and-ai-ethics",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "7: Leadership in DEI and AI Ethics",
+    "text": "7: Leadership in DEI and AI Ethics\n\nLeaders’ Roles:\n\nChampion diversity in AI teams\nMandate thorough bias testing\nFoster a culture of ethical AI development\n\nWhy It Matters:\n\nBusiness: Broader market appeal, avoid PR disasters\nEthical: Fair opportunities for all\nSocial: Build trust in AI technologies\n\nReflection: “As a future leader, how will you promote DEI in tech?”"
   },
   {
-    "objectID": "index.html#time-location",
-    "href": "index.html#time-location",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "Time & Location",
-    "text": "Time & Location\n\nLectures:\n\nTuesday 16:30~18:20\nMB201\n\nLabs:\n\nFriday 09:30~11:20\nCPD LG.08"
+    "objectID": "L3.html#scenarios---possible",
+    "href": "L3.html#scenarios---possible",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "8: Scenarios - Possible",
+    "text": "8: Scenarios - Possible\nHere’re some very straight forward examples of AI-driven solutions that you could develop without having good DEI awareness:\n\n\n“The Resume Screener”: AI favors certain universities\n\n\n“The Loan Approver”: Lower approval rates for specific postcodes\n\n\n“The Employee Performance Predictor”: Bias against flexible workers\n\nDiscussion: Identify DEI breaches and propose solutions"
   },
   {
-    "objectID": "index.html#ta-line-up",
-    "href": "index.html#ta-line-up",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "TA Line-up",
-    "text": "TA Line-up"
+    "objectID": "L3.html#scenarios---real",
+    "href": "L3.html#scenarios---real",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "9. Scenarios - Real",
+    "text": "9. Scenarios - Real\nNow let’s look at some real debacle of DEI failures by big corporates and highly-paid execs:\n\nGoogle Image Recognition Controversy (2015) : Tags\nAmazon’s AI Hiring Tool Bias (2018): Data\nMicrosoft’s Tay Chatbot Incident (2019): Guardrails/24h\nUber’s Facial Recognition System Failure (2021): Facial Rec Color"
   },
   {
-    "objectID": "index.html#instructors",
-    "href": "index.html#instructors",
-    "title": "DESN9002: Sustainable Leadership",
-    "section": "Instructors",
-    "text": "Instructors\n\nHongshan Guo\nAndrew Pau Hoang"
+    "objectID": "L3.html#critical-thinking---the-complexities-of-fair-ai",
+    "href": "L3.html#critical-thinking---the-complexities-of-fair-ai",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "10: Critical Thinking - The Complexities of “Fair AI”",
+    "text": "10: Critical Thinking - The Complexities of “Fair AI”\nTitle: “Fair for Whom? Navigating the Complexities of DEI in AI”\n\nThe Dilemma of Fairness:\n\nWhat does “fair” mean in different contexts?\nCan optimizing for one group inadvertently disadvantage others?\n\nPotential Trade-offs:\n\nAccuracy vs. Inclusivity\nGeneralizability vs. Specificity\nSpeed of development vs. Thorough bias checking\n\nDiscussion Points:\n\n\n“Is ‘fair AI’ truly fair for everyone? Who might be left out?”\n\n\n“How do we balance addressing historical inequities without creating new ones?”\n\n\n“What are the risks of over-correcting in AI design?”"
+  },
+  {
+    "objectID": "L3.html#critical-thinking---the-complexities-of-fair-ai-continued",
+    "href": "L3.html#critical-thinking---the-complexities-of-fair-ai-continued",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "10.1: Critical Thinking - The Complexities of “Fair AI” (Continued)",
+    "text": "10.1: Critical Thinking - The Complexities of “Fair AI” (Continued)\n\nCase Example:\n\nAn AI healthcare diagnostic tool is adjusted to be more accurate for underrepresented groups\nResult: Slight decrease in accuracy for the majority group\nQuestion: “Is this ethical? How do we decide?”\n\nActivity: “Ethical AI Design Spectrum” (if we have enough time)\n\nPosition yourselves on a spectrum in the room\nOne end: “Maximum DEI considerations in AI, even if it slows development”\nOther end: “Rapid AI development with basic fairness checks”\nDiscuss reasons for their positions"
+  },
+  {
+    "objectID": "L3.html#balancing-act---doing-enough-but-not-too-much",
+    "href": "L3.html#balancing-act---doing-enough-but-not-too-much",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "11: Balancing Act - Doing Enough, But Not Too Much",
+    "text": "11: Balancing Act - Doing Enough, But Not Too Much\n\nKey Considerations:\n\nRegulatory Compliance: Meeting legal requirements\nEthical Imperatives: Going beyond the law to ensure fairness\nPractical Constraints: Time, resources, and technological limitations\n\nFinding the Balance:\n\nContinuous testing and iteration\nDiverse team input in all stages of development\nRegular ethical audits and transparency reports\n\nDiscussion Question: “How can we determine if we’ve done ‘enough’ to ensure fairness in AI systems?”\nThought Experiment: “The AI Fairness Meter”\n\nIf you could design a tool to measure AI fairness, what metrics would you include?\nHow would you weigh different aspects of fairness against each other?"
+  },
+  {
+    "objectID": "L3.html#conclusion-and-next-steps",
+    "href": "L3.html#conclusion-and-next-steps",
+    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+    "section": "12: Conclusion and Next Steps",
+    "text": "12: Conclusion and Next Steps\n\nKey Takeaways:\n\nAI bias is often subtle but impactful\nProactive DEI integration is crucial in AI development\nOngoing vigilance and testing are necessary\n\nYour Action Item: “One thing I’ll do to promote DEI in tech…”\nFurther Reading:\n\nOpen for a surprise: The endearing results of Twitter’s new image crop, VOX\nStudent proves Twitter algorithm ‘bias’ toward lighter, slimmer, younger faces, The Guardian\nNO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles, arxiv.org"
+  },
+  {
+    "objectID": "L7.html#logistics-reminder",
+    "href": "L7.html#logistics-reminder",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "0: Logistics & Reminder",
+    "text": "0: Logistics & Reminder\n\nReflective Diaries\nNew this week:\n\nOpen-Book Quizz: Timed and due by end of the week."
+  },
+  {
+    "objectID": "L7.html#on-formation-of-teams",
+    "href": "L7.html#on-formation-of-teams",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "1: On Formation of Teams",
+    "text": "1: On Formation of Teams\n\nEntrepeneurship\nForming Start-ups\nInterests and Stakes\nFluidity of Groups"
+  },
+  {
+    "objectID": "L7.html#session-overview",
+    "href": "L7.html#session-overview",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "2: Session Overview",
+    "text": "2: Session Overview\n\nGroup assignment logistics and How-Tos\nUnderstanding ownership in teams\nTuckman’s Stages of Group Development\nQ&A and next steps (TBC on slack/labs"
+  },
+  {
+    "objectID": "L7.html#group-assignment-this-week-aka-w7",
+    "href": "L7.html#group-assignment-this-week-aka-w7",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.1: Group Assignment (this week, aka W7)",
+    "text": "3.1: Group Assignment (this week, aka W7)\n\nRandom solicitation via in-class and online/offline communications\nFind your kindred spirits but also find your talents\nInitial groups will be formed by you you\nExpectation: Everyone talks to at least three possible groups to determine which is the best fit"
+  },
+  {
+    "objectID": "L7.html#group-assignment-finalized-end-of-next-week-i.e.-w8",
+    "href": "L7.html#group-assignment-finalized-end-of-next-week-i.e.-w8",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.2: Group Assignment Finalized (end of next week, i.e. W8)",
+    "text": "3.2: Group Assignment Finalized (end of next week, i.e. W8)\nIf your group is not filled yet:\n\nRandom assignment from the teaching team\nFinal groups will be communicated by dedicated TA\nExpectation: Everyone leads and takes ownership\nQuestions? Contact us dedicated TA."
+  },
+  {
+    "objectID": "L7.html#how-tos-utilizing-slack-78-for-team-formation",
+    "href": "L7.html#how-tos-utilizing-slack-78-for-team-formation",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.3.1 How-Tos: Utilizing Slack (78) for Team Formation",
+    "text": "3.3.1 How-Tos: Utilizing Slack (78) for Team Formation\n\nPost on general channel on slack (#general)\nPurpose of the channel\nSet Up Your Profile:\n\nEnsure your Slack profile includes your name, major, interests, and any skills you bring to a team\n\nKey Features to Use:\n\nPosting in channels\nDirect messaging for one-on-one conversations\nUsing threads to keep discussions organized\nPrivate channels (if needed)"
+  },
+  {
+    "objectID": "L7.html#how-tos-communicating-your-availability",
+    "href": "L7.html#how-tos-communicating-your-availability",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.3.2 How-Tos: Communicating Your Availability",
+    "text": "3.3.2 How-Tos: Communicating Your Availability\n\nCreate an Availability Status Message (inside team-formation)\nWithin smaller project channels:\n\nCreate Avaialbility Posts\nPin Your Availability\nBe Clear and Honest\n\n\n**Availability for Team Meetings:**\n- Monday: 2-4 PM\n- Wednesday: 10 AM-12 PM\n- Friday: Flexible\n**Preferred Meeting Times:** \n- [Your preferred times]\nBe professional. No hard feelings on changes/switches."
+  },
+  {
+    "objectID": "L7.html#how-tos-ensuring-interdisciplinary-diversity-in-teams",
+    "href": "L7.html#how-tos-ensuring-interdisciplinary-diversity-in-teams",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.3.3 How-Tos: Ensuring Interdisciplinary Diversity in Teams",
+    "text": "3.3.3 How-Tos: Ensuring Interdisciplinary Diversity in Teams\n\nWhy Diversity Matters:\n\nEnhances creativity and problem-solving\n\nCEOs, CTOs, CFOs and expertise matters\n\nBrings multiple perspectives to the project\n\nStrategies to Find Diverse Members:\n\nActively seek members from different disciplines\nUse Slack’s search feature to find students from various programs\n\nBalance Team Composition:\n\nAim for at least five members with diverse academic backgrounds"
+  },
+  {
+    "objectID": "L7.html#how-tos-last-words-on-getting-you-jump-started",
+    "href": "L7.html#how-tos-last-words-on-getting-you-jump-started",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "3.3.4 How-Tos: Last Words on Getting you Jump-Started:",
+    "text": "3.3.4 How-Tos: Last Words on Getting you Jump-Started:\n\nScheduling Team Meetings: Physical vs. Virtual\n\nScheduling tools, Agenda Items, Lab Time Slots\n\nEstablishing Communication Norms: Frequency, Role and Inclusivity\nMaximize usage of lab-hours\nPro-tips:\n\nBe Proactive:\n\nReach out to potential team members early\n\nCommunicate Clearly:\n\nShare your goals, skills, and expectations openly\n\nBe Flexible and Open-Minded:\n\nEmbrace different perspectives and working styles\n\nStay Organized:\n\nUse tools like Trello (connectable to Slack) or Asana to manage tasks and deadlines\n\n\nAdditional Support:\n\nWe are avaialble on slack (not 24/7)"
+  },
+  {
+    "objectID": "L7.html#leadership-and-ownership",
+    "href": "L7.html#leadership-and-ownership",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "4: Leadership and Ownership",
+    "text": "4: Leadership and Ownership\n\nLeadership:\n\nGuiding the team\nSetting direction\nMotivating others\n\nOwnership:\n\nTaking responsibility for tasks and outcomes\nBeing accountable for results\nProactively addressing issues\n\nBoth involve:\n\nInitiative\nCommitment to team success"
+  },
+  {
+    "objectID": "L7.html#ownership-in-teams",
+    "href": "L7.html#ownership-in-teams",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "5: Ownership in Teams",
+    "text": "5: Ownership in Teams\n\nWhat does ownership look like?\n\nProactive problem-solving\nMeeting deadlines without prompting\nSuggesting improvements\nSupporting team members\n\nIn pairs, discuss: “Share an experience where you took ownership in a project. What was the outcome?”\nTime: 5 minutes discussion, 3 minutes sharing with class"
+  },
+  {
+    "objectID": "L7.html#tuckmans-stages-of-group-development",
+    "href": "L7.html#tuckmans-stages-of-group-development",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "6: Tuckman’s Stages of Group Development:",
+    "text": "6: Tuckman’s Stages of Group Development:\n\nForming\nStorming\nNorming\nPerforming\nAdjourning (added later)\n\nKey Point: Teams typically progress through these stages, but may revisit stages as needed"
+  },
+  {
+    "objectID": "L7.html#stage-1---forming",
+    "href": "L7.html#stage-1---forming",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "7: Stage 1 - Forming",
+    "text": "7: Stage 1 - Forming\n\nCharacteristics:\n\nPolite behavior\nUncertainty about roles and goals\nDependence on leader\n\nLeadership needs:\n\nProvide clear direction\nEstablish basic rules\nFacilitate introductions\n\n\nBe open and get to know your team members"
+  },
+  {
+    "objectID": "L7.html#stage-2---storming",
+    "href": "L7.html#stage-2---storming",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "8: Stage 2 - Storming",
+    "text": "8: Stage 2 - Storming\n\nCharacteristics:\n\nConflicts may arise\nPower struggles possible\nQuestioning of authority or process\n\nStrategies:\n\nAddress conflicts openly\nFocus on common goals\nEstablish conflict resolution methods\n\n\nView disagreements as opportunities for better solutions"
+  },
+  {
+    "objectID": "L7.html#stage-3---norming",
+    "href": "L7.html#stage-3---norming",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "9: Stage 3 - Norming",
+    "text": "9: Stage 3 - Norming\n\nCharacteristics:\n\nIncreased cohesion\nEstablishment of group norms\nImproved communication\n\nBuilding trust:\n\nEncourage open communication\nRecognize individual contributions\nDevelop shared responsibility\n\n\nContribute to creating a positive team culture"
+  },
+  {
+    "objectID": "L7.html#stage-4---performing",
+    "href": "L7.html#stage-4---performing",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "10: Stage 4 - Performing",
+    "text": "10: Stage 4 - Performing\n\nCharacteristics:\n\nHigh productivity\nAutonomous problem-solving\nFlexible and functional\n\nMaintaining momentum:\n\nCelebrate successes\nContinue to challenge the team\nAdapt to changing conditions\n\n\nStrive for continuous improvement"
+  },
+  {
+    "objectID": "L7.html#stage-5---adjourning",
+    "href": "L7.html#stage-5---adjourning",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "11: Stage 5 - Adjourning",
+    "text": "11: Stage 5 - Adjourning\n\nCharacteristics:\n\nTask completion\nPotential anxiety about separation\nReflection on achievements\n\nImportant actions:\n\nRecognize contributions\nReflect on learnings\nCelebrate accomplishments\n\n\nTip: Document lessons learned for future projects"
+  },
+  {
+    "objectID": "L7.html#navigating-team-stages",
+    "href": "L7.html#navigating-team-stages",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "12: Navigating Team Stages",
+    "text": "12: Navigating Team Stages\n\nTeams may move back and forth between stages\nDifferent challenges require different approaches\nAwareness of stages helps in addressing issues"
+  },
+  {
+    "objectID": "L7.html#key-takeaways",
+    "href": "L7.html#key-takeaways",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "13: Key Takeaways",
+    "text": "13: Key Takeaways\n\nOwnership is crucial for team success\nUnderstanding team development stages helps navigate challenges\nEffective teams require effort and awareness from all members\nLeadership can emerge from any team member"
+  },
+  {
+    "objectID": "L7.html#mapping-startup-co-founder-roles-to-project-roles",
+    "href": "L7.html#mapping-startup-co-founder-roles-to-project-roles",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "14.1 Mapping Startup Co-Founder Roles to Project Roles",
+    "text": "14.1 Mapping Startup Co-Founder Roles to Project Roles\n\nCEO (Chief Executive Officer):\n\nRole in Startup: Visionary leader, strategic planning, decision-making.\nEquivalent in Project Teams: Team Leader / Project Manager\n\nResponsibilities:\n\nDefine project vision and goals\nCoordinate team activities\nMake key decisions and ensure alignment with objectives\n\n\nReal Example:\n\nElon Musk at Tesla: As CEO, Musk sets the strategic direction and ensures all teams work towards the company’s vision of sustainable energy.\nProject Team Parallel: A Team Leader ensures all project members are aligned with the project’s sustainability goals and coordinates their efforts.\n\n\nCFO (Chief Financial Officer):\n\nRole in Startup: Manages finances, budgeting, financial planning.\nEquivalent in Project Teams: Finance Coordinator / Resource Manager\n\nResponsibilities:\n\nManage project budget\nAllocate resources effectively\nTrack expenses and financial reporting\n\n\nReal Example:\n\nRuth Porat at Alphabet (Google): Oversees financial operations, ensuring efficient resource allocation.\nProject Team Parallel: A Finance Coordinator manages the project’s budget, ensuring resources are allocated appropriately for different project components.\n\n\nCTO (Chief Technology Officer):\n\nRole in Startup: Oversees technological development, innovation.\nEquivalent in Project Teams: Technical Lead / IT Specialist\n\nResponsibilities:\n\nManage technical aspects of the project\nImplement and maintain necessary technologies\nEnsure technical solutions align with project goals\n\n\nReal Example:\n\nSheryl Sandberg at Facebook (former COO, often collaborating closely with CTO): While primarily COO, collaborates with technical leaders to drive innovation.\nProject Team Parallel: A Technical Lead ensures the project’s technical aspects are robust and innovative, similar to how Sandberg would collaborate with technical teams at Facebook."
+  },
+  {
+    "objectID": "L7.html#mapping-startup-co-founder-roles-to-project-roles-continued",
+    "href": "L7.html#mapping-startup-co-founder-roles-to-project-roles-continued",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "14.2 Mapping Startup Co-Founder Roles to Project Roles (Continued)",
+    "text": "14.2 Mapping Startup Co-Founder Roles to Project Roles (Continued)\n\nCMO (Chief Marketing Officer):\n\nRole in Startup: Handles marketing strategies, brand development.\nEquivalent in Project Teams: Marketing Coordinator / Communications Lead\n\nResponsibilities:\n\nDevelop and execute marketing plans\nManage project communications and outreach\nPromote project initiatives and outcomes\n\n\nReal Example:\n\nLeslie Berland at Twitter: Manages Twitter’s marketing strategies and brand presence.\nProject Team Parallel: A Marketing Coordinator promotes the project’s initiatives, similar to how Berland enhances Twitter’s brand.\n\n\nCOO (Chief Operating Officer):\n\nRole in Startup: Manages day-to-day operations, process optimization.\nEquivalent in Project Teams: Operations Manager / Logistics Coordinator\n\nResponsibilities:\n\nOversee project operations\nStreamline processes for efficiency\nEnsure timely completion of tasks\n\n\nReal Example:\n\nSheryl Sandberg at Facebook (before becoming COO): Managed daily operations to ensure efficiency and scalability.\nProject Team Parallel: An Operations Manager ensures the project runs smoothly, much like Sandberg optimized Facebook’s operations."
+  },
+  {
+    "objectID": "L7.html#mapping-startup-co-fonuder-roles-to-project-roles-aligning-with-responsibilities",
+    "href": "L7.html#mapping-startup-co-fonuder-roles-to-project-roles-aligning-with-responsibilities",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "14.3 Mapping Startup Co-Fonuder Roles to Project Roles: Aligning with Responsibilities",
+    "text": "14.3 Mapping Startup Co-Fonuder Roles to Project Roles: Aligning with Responsibilities\n\nA few examples:\n\nEngineering Majors: Fit well into Technical Lead roles.\nBusiness Majors: Suitable for CFO or COO roles.\nDesign Majors: Ideal for CMO or Marketing Coordinator roles.\nEnvironmental Science Majors: Can take on Sustainability Coordinator roles, integrating with existing positions.\n\nReal Example:\n\nAirbnb Founders: Brian Chesky (Design), Joe Gebbia (Design), and Nathan Blecharczyk (Engineering) each brought their expertise to roles that aligned with their backgrounds, fostering a balanced leadership team.\nProject Team Parallel: Students can mirror this by assigning roles based on their academic strengths and interests, ensuring a well-rounded team.\n\n\n\nFlexibility and Role Sharing:\n\nEncourage teams to adapt roles based on members’ strengths and project needs.\nAllow for overlapping responsibilities to foster a collaborative environment.\nReal Example:\n\nSlack Founders: Stewart Butterfield, Eric Costello, Cal Henderson, and Serguei Mourachov shared responsibilities across product design, engineering, and business development, ensuring flexibility and collaboration.\nProject Team Parallel: Teams can distribute tasks flexibly, allowing members to lead in areas where they excel, similar to Slack’s founders."
+  },
+  {
+    "objectID": "L7.html#embracing-distributed-leadership-and-the-entrepreneurial-mindset-continued",
+    "href": "L7.html#embracing-distributed-leadership-and-the-entrepreneurial-mindset-continued",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)",
+    "text": "15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)\n\nEveryone as a Leader:\n\nRole Rotation:\n\nExample: Spotify’s Squad Model allows team members to rotate leadership roles within squads, ensuring diverse leadership experiences and shared responsibility.\nProject Team Parallel: Rotate leadership roles for different project phases (e.g., research, design, presentation) to ensure all members develop leadership skills and contribute equally.\n\nEmpowering Each Member:\n\nExample: W.L. Gore & Associates (makers of Gore-Tex) encourages every employee to lead initiatives and contribute ideas, fostering a culture of ownership and innovation.\nProject Team Parallel: Empower team members to take ownership of specific tasks or project components, similar to how Gore’s associates lead initiatives.\n\n\nStrategies to Promote Distributed Leadership:\n\nRegular Check-Ins:\n\nExample: Agile Methodology in software development involves regular stand-up meetings where each member shares progress and leads discussions on immediate tasks.\nProject Team Parallel: Implement regular team meetings to discuss progress, address issues, and allow different members to lead parts of the discussion.\n\nOpen Communication:\n\nExample: Basecamp promotes open communication through their project management tools, ensuring all team members can contribute ideas and feedback.\nProject Team Parallel: Use Slack effectively for transparent communication, ensuring all team members feel comfortable sharing ideas and feedback.\n\nShared Goals:\n\nExample: Tesla’s Mission to Accelerate the World’s Transition to Sustainable Energy aligns all team members towards a common objective, fostering unity and collective effort.\nProject Team Parallel: Clearly define and align on project goals to ensure all team members are working towards the same outcomes.\n\nSupport and Mentorship:\n\nExample: Google’s Project Aristotle found that psychological safety and support are key to high-performing teams, emphasizing the importance of mentorship and support.\nProject Team Parallel: Encourage teams to support each other and seek mentorship from TAs or instructors when needed to build a high-performing team environment."
+  },
+  {
+    "objectID": "L7.html#embracing-distributed-leadership-and-the-entrepreneurial-mindset-continued-1",
+    "href": "L7.html#embracing-distributed-leadership-and-the-entrepreneurial-mindset-continued-1",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)",
+    "text": "15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)\n\nEnsuring Project Success Through Collective Leadership:\n\nUnified Vision:\n\nExample: SpaceX’s unified vision under Elon Musk ensures that all team members are committed to pioneering space technology.\nProject Team Parallel: Ensure all team members understand and are committed to the project’s sustainability goals, fostering a unified effort.\n\nCollaborative Decision-Making:\n\nExample: The founding team of Airbnb made key decisions collaboratively, leveraging each member’s expertise to drive the company’s success.\nProject Team Parallel: Make decisions collectively to leverage the team’s diverse expertise, ensuring well-rounded and informed project outcomes.\n\nAccountability:\n\nExample: Asana’s team structure emphasizes accountability by clearly defining roles and responsibilities, ensuring each member contributes effectively.\nProject Team Parallel: Hold each other accountable for contributions and responsibilities, ensuring all team members are actively engaged and contributing."
+  },
+  {
+    "objectID": "L7.html#real-examples-of-start-up-teams",
+    "href": "L7.html#real-examples-of-start-up-teams",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "15.3 Real Examples of Start-up Teams",
+    "text": "15.3 Real Examples of Start-up Teams\n\nSome Real-World Case Studies:\n\nExample Slide Insert:\n\nCase Study: Airbnb Founding Team\n\nRoles: Brian Chesky (Design), Joe Gebbia (Design), Nathan Blecharczyk (Engineering)\nLeadership Approach: Collaborative decision-making and role flexibility led to Airbnb’s success.\n\nProject Team Parallel: Encourage students to discuss how role flexibility contributed to Airbnb’s growth and apply similar strategies in their projects.\n\n\nInteractive Elements with Examples:\n\nActivity Example:\n\nRole-Playing Exercise: Assign students different startup roles (e.g., CEO, CTO) based on real companies and have them discuss how these roles would operate within their project teams.\nReal-World Tie-In: Compare their role-playing outcomes with how actual companies like Slack and Tesla distribute responsibilities.\n\n\nQuotes and Testimonials:\n\nExample Quotes:\n\nElon Musk (Tesla CEO): “Great companies are built on great products.”\nHoward Schultz (Starbucks CEO): “Success is best when it’s shared.”\nProject Team Parallel: Use these quotes to inspire students to adopt leadership qualities that foster shared success and product excellence.\n\n\nVisual Consistency with Examples:\n\nExample Visuals:\n\nLogos and Photos: Include logos of Tesla, Airbnb, Slack, and other relevant companies alongside their role mappings.\nReal Images: Use images of real startup teams collaborating to illustrate distributed leadership in action."
+  },
+  {
+    "objectID": "L7.html#next-steps-and-qa",
+    "href": "L7.html#next-steps-and-qa",
+    "title": "Lecture 7: Group Formation and Team Development - Presentation Slides",
+    "section": "16: Next Steps and Q&A",
+    "text": "16: Next Steps and Q&A\n\nCurrent groups/cores need to communicate with TAs of tentative group formation by EOW\n\nResponsible TA may shift depending on the number of groups they work with.\n\nStart thinking about how you’ll approach your first team meeting:\n\nObviously start with the requirement sheet, but what are your agenda items?\nHow do you enable conversations that allows for all members to engage and lead?\nWhat are the major challenges you anticipate in working on the project that you identified?\n\nQuestions about the group process or team development?\n\nUse the lab session and slack to reach out to us."
   },
   {
     "objectID": "L2.html#recap-from-last-week",
@@ -224,6 +728,7 @@
     "text": "“The Great Horse Manure Crisis of 1894”:\nIn the late 19th century, large cities faced a growing problem with horse manure from transportation. Some predicted London would be buried under 9 feet of manure by 1950. This crisis was averted not by better manure management, but by the invention of the automobile. It demonstrates how technological innovations can solve sustainability challenges in unexpected ways."
   },
   {
+<<<<<<< HEAD
     "objectID": "L4.html#house-keeping-items-reflective-diaries",
     "href": "L4.html#house-keeping-items-reflective-diaries",
     "title": "Lecture 4: DEI in Real-World Conversations: Detailed Slides",
@@ -381,45 +886,59 @@
     "objectID": "L3.html#section",
     "href": "L3.html#section",
     "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
+=======
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DESN9002: Sustainable Leadership",
+>>>>>>> 5657b755a735284802f6a8c6aff6a83514333c64
     "section": "",
-    "text": "Crop out whom?"
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8"
   },
   {
-    "objectID": "L3.html#case-study-1---twitters-image-cropping-algorithm",
-    "href": "L3.html#case-study-1---twitters-image-cropping-algorithm",
-    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
-    "section": "5: Case Study 1 - Twitter’s Image Cropping Algorithm",
-    "text": "5: Case Study 1 - Twitter’s Image Cropping Algorithm\n\nThe Issue: Algorithm favored white faces over black faces\nRoot Cause: Focus on high contrast areas and facial features\nImpact: Reinforced racial biases in social media representation\nTwitter’s Response:\n\nMade algorithm choices more transparent\nEventually removed automatic cropping"
+    "objectID": "index.html#lecture-notes",
+    "href": "index.html#lecture-notes",
+    "title": "DESN9002: Sustainable Leadership",
+    "section": "",
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8"
   },
   {
-    "objectID": "L3.html#case-study-2---amazons-ai-recruiting-tool",
-    "href": "L3.html#case-study-2---amazons-ai-recruiting-tool",
-    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
-    "section": "6: Case Study 2 - Amazon’s AI Recruiting Tool",
-    "text": "6: Case Study 2 - Amazon’s AI Recruiting Tool\n\nThe Problem: AI tool discriminated against women\nKey Issues:\n\nTrained on 10 years of resumes, mostly from men\nPenalized resumes including “women’s”\nDowngraded graduates of women’s colleges\n\nAmazon’s Action: Discontinued the tool\nTeaser: “Imagine applying for your dream job, but the AI says no. Ever heard of the ‘this is an examplary candidate’ trick?”"
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "DESN9002: Sustainable Leadership",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nDESN9002 Syllabus"
   },
   {
-    "objectID": "L3.html#leadership-in-dei-and-ai-ethics",
-    "href": "L3.html#leadership-in-dei-and-ai-ethics",
-    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
-    "section": "7: Leadership in DEI and AI Ethics",
-    "text": "7: Leadership in DEI and AI Ethics\n\nLeaders’ Roles:\n\nChampion diversity in AI teams\nMandate thorough bias testing\nFoster a culture of ethical AI development\n\nWhy It Matters:\n\nBusiness: Broader market appeal, avoid PR disasters\nEthical: Fair opportunities for all\nSocial: Build trust in AI technologies\n\nReflection: “As a future leader, how will you promote DEI in tech?”"
+    "objectID": "index.html#time-location",
+    "href": "index.html#time-location",
+    "title": "DESN9002: Sustainable Leadership",
+    "section": "Time & Location",
+    "text": "Time & Location\n\nLectures:\n\nTuesday 16:30~18:20\nMB201\n\nLabs:\n\nFriday 09:30~11:20\nCPD LG.08"
   },
   {
+<<<<<<< HEAD
     "objectID": "L3.html#scenarios---possible",
     "href": "L3.html#scenarios---possible",
     "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
     "section": "8: Scenarios - Possible",
     "text": "8: Scenarios - Possible\nHere’re some very straight forward examples of AI-driven solutions that you could develop without having good DEI awareness:\n\n“The Resume Screener”: AI favors certain universities\n“The Loan Approver”: Lower approval rates for specific postcodes\n“The Employee Performance Predictor”: Bias against flexible workers\nDiscussion: Identify DEI breaches and propose solutions"
+=======
+    "objectID": "index.html#ta-line-up",
+    "href": "index.html#ta-line-up",
+    "title": "DESN9002: Sustainable Leadership",
+    "section": "TA Line-up",
+    "text": "TA Line-up"
+>>>>>>> 5657b755a735284802f6a8c6aff6a83514333c64
   },
   {
-    "objectID": "L3.html#scenarios---real",
-    "href": "L3.html#scenarios---real",
-    "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
-    "section": "9. Scenarios - Real",
-    "text": "9. Scenarios - Real\nNow let’s look at some real debacle of DEI failures by big corporates and highly-paid execs:\n\nGoogle Image Recognition Controversy (2015) : Tags\nAmazon’s AI Hiring Tool Bias (2018): Data\nMicrosoft’s Tay Chatbot Incident (2019): Guardrails/24h\nUber’s Facial Recognition System Failure (2021): Facial Rec Color"
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "DESN9002: Sustainable Leadership",
+    "section": "Instructors",
+    "text": "Instructors\n\nHongshan Guo\nAndrew Pau Hoang"
   },
   {
+<<<<<<< HEAD
     "objectID": "L3.html#critical-thinking---the-complexities-of-fair-ai",
     "href": "L3.html#critical-thinking---the-complexities-of-fair-ai",
     "title": "Lecture 3: DEI Principles in AI Ethics: Navigating the Challenges of Bias",
@@ -530,5 +1049,12 @@
     "title": "Lecture 1: Who Are We, Course Overview, and Introduction to SDGs",
     "section": "Thank You and Break time!",
     "text": "Thank You and Break time!"
+=======
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+>>>>>>> 5657b755a735284802f6a8c6aff6a83514333c64
   }
 ]

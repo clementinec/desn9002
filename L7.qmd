@@ -1,0 +1,397 @@
+
+---
+title: "Lecture 7: Group Formation and Team Development - Presentation Slides"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+## 0: Logistics & Reminder
+- Reflective Diaries
+- New this week:
+	- Open-Book Quizz: Timed and due by end of the week.
+
+## 1: On Formation of Teams
+- **Entrepeneurship**
+- Forming Start-ups
+- Interests and Stakes
+- <span style="color: red">**Fluidity of Groups**</span>
+
+## 2: Session Overview
+- Group assignment logistics and How-Tos
+- Understanding ownership in teams
+- Tuckman's Stages of Group Development
+- Q&A and next steps (TBC on slack/labs
+
+## 3.1: Group Assignment (this week, aka W7)
+- Random solicitation via in-class and online/offline communications
+- Find your kindred spirits but also find your talents
+- Initial groups will be formed by you <span style="color: red">**you**</span>
+- Expectation: Everyone talks to at least three possible groups to determine which is the best fit
+
+## 3.2: Group Assignment Finalized (end of next week, i.e. W8)
+If your group is not filled yet:
+
+- Random assignment from the teaching team
+- Final groups will be communicated by dedicated TA
+- Expectation: Everyone leads and takes ownership
+- Questions? Contact us dedicated TA.
+
+## 3.3.1 How-Tos: Utilizing Slack (78) for Team Formation
+- Post on general channel on slack (#general)
+- Purpose of the channel
+- Set Up Your Profile:
+	- Ensure your Slack profile includes your name, major, interests, and any skills you bring to a team
+- Key Features to Use:
+	- Posting in channels
+	- Direct messaging for one-on-one conversations
+	- Using threads to keep discussions organized
+	- Private channels (if needed)
+
+## 3.3.2 How-Tos: Communicating Your Availability
+- Create an Availability Status Message (inside team-formation)
+- Within smaller project channels:
+	- Create Avaialbility Posts
+  - Pin Your Availability
+  - Be Clear and Honest
+
+```{.markdown}
+**Availability for Team Meetings:**
+- Monday: 2-4 PM
+- Wednesday: 10 AM-12 PM
+- Friday: Flexible
+**Preferred Meeting Times:** 
+- [Your preferred times]
+```
+		
+**Be professional. No hard feelings on changes/switches.**
+
+## 3.3.3 How-Tos: Ensuring Interdisciplinary Diversity in Teams
+
+- Why Diversity Matters:
+	- Enhances creativity and problem-solving
+		- CEOs, CTOs, CFOs and expertise matters 
+	- Brings multiple perspectives to the project
+- Strategies to Find Diverse Members:
+	- Actively seek members from different disciplines
+	- Use Slack’s search feature to find students from various programs
+- Balance Team Composition:
+	- Aim for at least five members with diverse academic backgrounds
+
+## 3.3.4 How-Tos: Last Words on Getting you Jump-Started:
+
+- Scheduling Team Meetings: Physical vs. Virtual
+	- Scheduling tools, Agenda Items, Lab Time Slots
+- Establishing Communication Norms: Frequency, Role and Inclusivity
+- Maximize usage of lab-hours
+- Pro-tips:
+	- Be Proactive:
+		- Reach out to potential team members early
+	- Communicate Clearly:
+		- Share your goals, skills, and expectations openly
+	- Be Flexible and Open-Minded:
+		- Embrace different perspectives and working styles
+	- Stay Organized:
+		- Use tools like Trello (connectable to Slack) or Asana to manage tasks and deadlines
+- Additional Support:
+	- We are avaialble on slack (_not_ 24/7)
+
+## 4: Leadership and Ownership
+- Leadership:
+	- Guiding the team
+	- Setting direction
+	- Motivating others
+
+- Ownership:
+	- Taking responsibility for tasks and outcomes
+	- Being accountable for results
+	- Proactively addressing issues
+
+- Both involve:
+	- Initiative
+	- Commitment to team success
+
+## 5: Ownership in Teams
+- What does ownership look like?
+	- Proactive problem-solving
+	- Meeting deadlines without prompting
+	- Suggesting improvements
+	- Supporting team members
+
+
+- In pairs, discuss: "Share an experience where you took ownership in a project. What was the outcome?"
+- Time: 5 minutes discussion, 3 minutes sharing with class
+
+## 6: Tuckman's Stages of Group Development:
+
+1. Forming
+2. Storming
+3. Norming
+4. Performing
+5. Adjourning (added later)
+
+Key Point: Teams typically progress through these stages, but may revisit stages as needed
+
+## 7: Stage 1 - Forming
+- Characteristics:
+	- Polite behavior
+	- Uncertainty about roles and goals
+	- Dependence on leader
+- Leadership needs:
+	- Provide clear direction
+	- Establish basic rules
+	- Facilitate introductions
+
+_Be open and get to know your team members_
+
+## 8: Stage 2 - Storming
+- Characteristics:
+	- Conflicts may arise
+	- Power struggles possible
+	- Questioning of authority or process
+
+- Strategies:
+	- Address conflicts openly
+	- Focus on common goals
+	- Establish conflict resolution methods
+
+_View disagreements as opportunities for better solutions_
+
+## 9: Stage 3 - Norming
+- Characteristics:
+	- Increased cohesion
+	- Establishment of group norms
+	- Improved communication
+
+- Building trust:
+	- Encourage open communication
+	- Recognize individual contributions
+	- Develop shared responsibility
+
+_Contribute to creating a positive team culture_
+
+## 10: Stage 4 - Performing
+- Characteristics:
+	- High productivity
+	- Autonomous problem-solving
+	- Flexible and functional
+
+- Maintaining momentum:
+	- Celebrate successes
+	- Continue to challenge the team
+	- Adapt to changing conditions
+
+_Strive for continuous improvement_
+
+## 11: Stage 5 - Adjourning
+- Characteristics:
+	- Task completion
+	- Potential anxiety about separation
+	- Reflection on achievements
+
+- Important actions:
+	- Recognize contributions
+	- Reflect on learnings
+	- Celebrate accomplishments
+
+_Tip: Document lessons learned for future projects_
+
+## 12: Navigating Team Stages
+- Teams may **move back and forth** between stages
+- Different challenges require different approaches
+- Awareness of stages helps in addressing issues
+
+## 13: Key Takeaways
+- Ownership is crucial for team success
+- Understanding team development stages helps navigate challenges
+- Effective teams require effort and awareness from all members
+- **Leadership can emerge from any team member**
+
+---
+
+## 14.1 Mapping Startup Co-Founder Roles to Project Roles
+   - **CEO (Chief Executive Officer):**
+     - **Role in Startup:** Visionary leader, strategic planning, decision-making.
+     - **Equivalent in Project Teams:** **Team Leader / Project Manager**
+       - **Responsibilities:**
+         - Define project vision and goals
+         - Coordinate team activities
+         - Make key decisions and ensure alignment with objectives
+     - **Real Example:**
+       - **Elon Musk at Tesla:** As CEO, Musk sets the strategic direction and ensures all teams work towards the company's vision of sustainable energy.
+       - **Project Team Parallel:** A Team Leader ensures all project members are aligned with the project's sustainability goals and coordinates their efforts.
+
+   - **CFO (Chief Financial Officer):**
+     - **Role in Startup:** Manages finances, budgeting, financial planning.
+     - **Equivalent in Project Teams:** **Finance Coordinator / Resource Manager**
+       - **Responsibilities:**
+         - Manage project budget
+         - Allocate resources effectively
+         - Track expenses and financial reporting
+     - **Real Example:**
+       - **Ruth Porat at Alphabet (Google):** Oversees financial operations, ensuring efficient resource allocation.
+       - **Project Team Parallel:** A Finance Coordinator manages the project’s budget, ensuring resources are allocated appropriately for different project components.
+
+   - **CTO (Chief Technology Officer):**
+     - **Role in Startup:** Oversees technological development, innovation.
+     - **Equivalent in Project Teams:** **Technical Lead / IT Specialist**
+       - **Responsibilities:**
+         - Manage technical aspects of the project
+         - Implement and maintain necessary technologies
+         - Ensure technical solutions align with project goals
+     - **Real Example:**
+       - **Sheryl Sandberg at Facebook (former COO, often collaborating closely with CTO):** While primarily COO, collaborates with technical leaders to drive innovation.
+       - **Project Team Parallel:** A Technical Lead ensures the project’s technical aspects are robust and innovative, similar to how Sandberg would collaborate with technical teams at Facebook.
+
+## 14.2 Mapping Startup Co-Founder Roles to Project Roles (Continued)
+
+   - **CMO (Chief Marketing Officer):**
+     - **Role in Startup:** Handles marketing strategies, brand development.
+     - **Equivalent in Project Teams:** **Marketing Coordinator / Communications Lead**
+       - **Responsibilities:**
+         - Develop and execute marketing plans
+         - Manage project communications and outreach
+         - Promote project initiatives and outcomes
+     - **Real Example:**
+       - **Leslie Berland at Twitter:** Manages Twitter's marketing strategies and brand presence.
+       - **Project Team Parallel:** A Marketing Coordinator promotes the project’s initiatives, similar to how Berland enhances Twitter’s brand.
+
+   - **COO (Chief Operating Officer):**
+     - **Role in Startup:** Manages day-to-day operations, process optimization.
+     - **Equivalent in Project Teams:** **Operations Manager / Logistics Coordinator**
+       - **Responsibilities:**
+         - Oversee project operations
+         - Streamline processes for efficiency
+         - Ensure timely completion of tasks
+     - **Real Example:**
+       - **Sheryl Sandberg at Facebook (before becoming COO):** Managed daily operations to ensure efficiency and scalability.
+       - **Project Team Parallel:** An Operations Manager ensures the project runs smoothly, much like Sandberg optimized Facebook’s operations.
+
+
+## 14.3 Mapping Startup Co-Fonuder Roles to Project Roles: Aligning with Responsibilities
+   - **A few examples:**
+     - **Engineering Majors:** Fit well into **Technical Lead** roles.
+     - **Business Majors:** Suitable for **CFO** or **COO** roles.
+     - **Design Majors:** Ideal for **CMO** or **Marketing Coordinator** roles.
+     - **Environmental Science Majors:** Can take on **Sustainability Coordinator** roles, integrating with existing positions.
+   - **Real Example:**
+     - **Airbnb Founders:** Brian Chesky (Design), Joe Gebbia (Design), and Nathan Blecharczyk (Engineering) each brought their expertise to roles that aligned with their backgrounds, fostering a balanced leadership team.
+     - **Project Team Parallel:** Students can mirror this by assigning roles based on their academic strengths and interests, ensuring a well-rounded team.
+
+3. **Flexibility and Role Sharing:**
+   - **Encourage teams to adapt roles based on members' strengths and project needs.**
+   - **Allow for overlapping responsibilities to foster a collaborative environment.**
+   - **Real Example:**
+     - **Slack Founders:** Stewart Butterfield, Eric Costello, Cal Henderson, and Serguei Mourachov shared responsibilities across product design, engineering, and business development, ensuring flexibility and collaboration.
+     - **Project Team Parallel:** Teams can distribute tasks flexibly, allowing members to lead in areas where they excel, similar to Slack’s founders.
+
+---
+
+### 15.1: Embracing Distributed Leadership and the Entrepreneurial Mindset
+
+1. **Understanding Distributed Leadership:**
+   - **Definition:** Leadership shared among all team members rather than centralized in a single individual.
+   - **Benefits:**
+     - Leverages diverse skills and perspectives
+     - Encourages ownership and accountability
+     - Enhances team resilience and adaptability
+   - **Real Example:**
+     - **Valve Corporation:** Known for its flat organizational structure where employees choose projects and leadership roles based on their interests and expertise.
+     - **Project Team Parallel:** Teams can adopt a flat structure, allowing members to take initiative and lead based on their strengths, fostering a dynamic and responsive project environment.
+
+2. **Entrepreneurial Mindset in Team Projects:**
+   - **Key Traits:**
+     - **Initiative:** Proactively identifying and addressing project needs.
+     - **Creativity:** Innovating solutions and approaches.
+     - **Resilience:** Overcoming challenges and setbacks.
+     - **Collaboration:** Working effectively with diverse team members.
+   - **Real Example:**
+     - **IDEO:** A global design company that promotes an entrepreneurial mindset by encouraging creativity and collaboration across diverse teams to solve complex problems.
+     - **Project Team Parallel:** Students can emulate IDEO’s approach by encouraging creative brainstorming sessions and collaborative problem-solving within their teams.
+
+## 15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)
+
+3. **Everyone as a Leader:**
+   - **Role Rotation:**
+     - **Example:** **Spotify’s Squad Model** allows team members to rotate leadership roles within squads, ensuring diverse leadership experiences and shared responsibility.
+     - **Project Team Parallel:** Rotate leadership roles for different project phases (e.g., research, design, presentation) to ensure all members develop leadership skills and contribute equally.
+   
+   - **Empowering Each Member:**
+     - **Example:** **W.L. Gore & Associates** (makers of Gore-Tex) encourages every employee to lead initiatives and contribute ideas, fostering a culture of ownership and innovation.
+     - **Project Team Parallel:** Empower team members to take ownership of specific tasks or project components, similar to how Gore’s associates lead initiatives.
+
+4. **Strategies to Promote Distributed Leadership:**
+   - **Regular Check-Ins:**
+     - **Example:** **Agile Methodology** in software development involves regular stand-up meetings where each member shares progress and leads discussions on immediate tasks.
+     - **Project Team Parallel:** Implement regular team meetings to discuss progress, address issues, and allow different members to lead parts of the discussion.
+   
+   - **Open Communication:**
+     - **Example:** **Basecamp** promotes open communication through their project management tools, ensuring all team members can contribute ideas and feedback.
+     - **Project Team Parallel:** Use Slack effectively for transparent communication, ensuring all team members feel comfortable sharing ideas and feedback.
+   
+   - **Shared Goals:**
+     - **Example:** **Tesla’s Mission to Accelerate the World’s Transition to Sustainable Energy** aligns all team members towards a common objective, fostering unity and collective effort.
+     - **Project Team Parallel:** Clearly define and align on project goals to ensure all team members are working towards the same outcomes.
+   
+   - **Support and Mentorship:**
+     - **Example:** **Google’s Project Aristotle** found that psychological safety and support are key to high-performing teams, emphasizing the importance of mentorship and support.
+     - **Project Team Parallel:** Encourage teams to support each other and seek mentorship from TAs or instructors when needed to build a high-performing team environment.
+
+## 15.2 Embracing Distributed Leadership and the Entrepreneurial Mindset (Continued)
+
+5. **Ensuring Project Success Through Collective Leadership:**
+   - **Unified Vision:**
+     - **Example:** **SpaceX’s unified vision** under Elon Musk ensures that all team members are committed to pioneering space technology.
+     - **Project Team Parallel:** Ensure all team members understand and are committed to the project’s sustainability goals, fostering a unified effort.
+   
+   - **Collaborative Decision-Making:**
+     - **Example:** **The founding team of Airbnb** made key decisions collaboratively, leveraging each member’s expertise to drive the company’s success.
+     - **Project Team Parallel:** Make decisions collectively to leverage the team’s diverse expertise, ensuring well-rounded and informed project outcomes.
+   
+   - **Accountability:**
+     - **Example:** **Asana’s team structure** emphasizes accountability by clearly defining roles and responsibilities, ensuring each member contributes effectively.
+     - **Project Team Parallel:** Hold each other accountable for contributions and responsibilities, ensuring all team members are actively engaged and contributing.
+
+---
+## 15.3 Real Examples of Start-up Teams
+
+1. **Some Real-World Case Studies:**
+   - **Example Slide Insert:**
+     - **Case Study: Airbnb Founding Team**
+       - **Roles:** Brian Chesky (Design), Joe Gebbia (Design), Nathan Blecharczyk (Engineering)
+       - **Leadership Approach:** Collaborative decision-making and role flexibility led to Airbnb’s success.
+     - **Project Team Parallel:** Encourage students to discuss how role flexibility contributed to Airbnb’s growth and apply similar strategies in their projects.
+
+2. **Interactive Elements with Examples:**
+   - **Activity Example:**
+     - **Role-Playing Exercise:** Assign students different startup roles (e.g., CEO, CTO) based on real companies and have them discuss how these roles would operate within their project teams.
+     - **Real-World Tie-In:** Compare their role-playing outcomes with how actual companies like Slack and Tesla distribute responsibilities.
+
+3. **Quotes and Testimonials:**
+   - **Example Quotes:**
+     - **Elon Musk (Tesla CEO):** “Great companies are built on great products.”
+     - **Howard Schultz (Starbucks CEO):** “Success is best when it’s shared.”
+     - **Project Team Parallel:** Use these quotes to inspire students to adopt leadership qualities that foster shared success and product excellence.
+
+4. **Visual Consistency with Examples:**
+   - **Example Visuals:**
+     - **Logos and Photos:** Include logos of Tesla, Airbnb, Slack, and other relevant companies alongside their role mappings.
+     - **Real Images:** Use images of real startup teams collaborating to illustrate distributed leadership in action.
+
+
+## 16: Next Steps and Q&A
+- Current groups/cores need to communicate with TAs of tentative group formation by EOW
+	- Responsible TA may shift depending on the number of groups they work with.
+- Start thinking about how you'll approach your first team meeting:
+	- Obviously start with the requirement sheet, but what are your agenda items?
+	- How do you enable conversations that allows for all members to engage and lead?
+	- What are the major challenges you anticipate in working on the project that you identified?
+- Questions about the group process or team development? 
+	- Use the lab session and slack to reach out to us.

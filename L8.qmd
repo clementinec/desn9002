@@ -1,0 +1,271 @@
+
+---
+title: "Lecture 8: Group Formation and Team Development (Cont'd) & Sustainable Practices in Leadership (MVP)"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+## 0: Logistics
+- Reflective Diary 4 Released. Due Date **extended to Nov 3rd, 11:59 PM**
+- Quizz 1 Released. Due Date Nov 2nd, 11:59 AM
+- Annoucement on Deliverables vs. Assessment Items: 
+  - Assessment items on syllabus is **finalized and graded**
+  - Deliverables are _recommended_ checkpoints that can be included in your presentation
+    - not required/mandatory
+    - not graded
+- Due next week (W9):
+  - Q2
+  - Mid-Project Presentation (your own format): Criteria as outlined in syllabus.
+
+## 1.1: Peer-Evaluation Overview
+- Sustainable Leadership Currency (SLC) Peer Evaluation
+  - Investing as Co-Founders: Group-Based Peer Evaluation
+
+- What is SLC?
+  - Each group receives 100 coins to invest in other groups' projects.
+- Why This Approach?
+  - Simulates real-world investment decisions.
+  - Encourages strategic thinking and collaboration within your group.
+- How to Allocate Coins:
+  - Step 1: Review all other projects thoroughly.
+  - Step 2: Discuss as a group and decide how to distribute your 100 coins.
+  - Step 3: Submit your allocations via [Platform] by [Deadline].
+- Evaluation Criteria to Consider:
+  - Innovation and Sustainability
+  - Feasibility and Viability
+  - Presentation and Communication
+  - Teamwork and Leadership
+  - Personal Growth and Reflection
+
+## 1.2: Peer-Evaluation Overview
+
+- **Guidelines**:
+  - No Self-Investment
+  - Be Strategic and Fair
+  - Avoid Collusion
+  - Within **private group channels** to TAs in Slack
+- Impact on Grades:
+  - The total coins received will affect 10% of your final project grade.
+**Work as a team and think as a team.**
+
+## 2: Session Overview
+- Timeline and Milestones
+- Project and Time Management
+- Minimum Viable Product (MVP)
+- Delivery vs. Perfection
+- Interactive activities and real-world examples
+
+## 3: The Tale of Two Projects
+- Project A: Stuck in perfection loop
+  - Endless revisions, missed deadlines
+  - Never launched
+- Project B: MVP approach
+  - Quick initial release, iterative improvements
+  - Successful market presence
+Lesson: Sometimes, done is better than perfect
+
+## 3.1.1: The Tale of Two Mail Services: Google's Gmail (Project B: MVP Approach)
+- Launched in 2004 as invite-only beta
+- Initial MVP features:
+  - 1GB storage (revolutionary at the time)
+  - Conversation view for emails
+  - Powerful search functionality
+- Iterative improvements over time:
+  - Gradually added features based on user feedback
+  - Continuously refined user interface
+- Outcome:
+  - Rapid user adoption and growth
+  - Became one of the most popular email services globally
+
+## 3.1.2: The Tale of Two Mail Services: Yahoo Mail (Project A: Feature-Heavy Approach)
+- Established email service trying to compete
+- Development approach:
+  - Focused on matching and exceeding Gmail's features
+  - Aimed for a "perfect" product before major updates
+  - Slower to implement new technologies (e.g., AJAX)
+- Challenges faced:
+  - Longer development cycles
+  - Difficulty in quickly responding to user needs
+  - Struggled to differentiate from competitors
+- Outcome:
+  - Gradually lost market share to Gmail
+  - Played catch-up in terms of features and user experience
+
+## 3.2 Comparison Table: GMail vs. Yahoo Mail
+
+| Aspect                         | Yahoo Mail (Established Approach)                   | Google's Gmail (MVP Approach)                             |
+| ------------------------------ | --------------------------------------------------- | --------------------------------------------------------- |
+| Launch Date                    | 1997                                                | 2004                                                      |
+| Initial Approach               | Comprehensive webmail service                       | Invite-only beta with core features                       |
+| Key Features at Gmail's Launch | - Limited storage (4MB)<br>- Traditional inbox view | - 1GB storage<br>- Conversation view<br>- Powerful search |
+| Development Approach           | Gradual feature additions                           | Rapid iterations based on user feedback                   |
+| Adaptation to New Tech         | Slower to adopt new technologies                    | Quick implementation of AJAX and other innovations        |
+| Response to Competition        | Reactive: Tried to match Gmail's features           | Proactive: Set new standards in email services            |
+| Long-term Outcome              | Struggled to maintain market position               | Became one of the most popular email services             |
+
+## Key Takeaways:
+1. MVP allows faster market entry and user feedback
+2. <span style="color:red">Iterative improvements</span> can lead to better user satisfaction
+3. Focusing on <span style="color:blue">core functionality</span> can be more effective than trying to have every feature at launch
+
+## 4: Timeline and Milestones
+- Project timeline: Roadmap to success
+- Milestones: Checkpoints for progress
+- Key elements:
+  - Realistic deadlines
+  - Clear objectives
+  - Flexibility for adjustments
+
+## 5: Interactive: Milestone Mapping 
+
+1. Tentative Groups: Sit together and work out what are the current deliverables
+2. Create a timeline for launching an app for your planned start-up
+3. Identify 5 key milestones
+  - Rank them by importance
+  - What is the minimum viable product that you believe needs to be delivered?
+4. Time: 5 minutes
+5. We'll discuss common pitfalls after
+
+## 6: Project and Time Management
+- Project Management Principles:
+  - Clear goals and scope
+  - Resource allocation
+  - Risk management
+  - Communication
+- Time Management Techniques:
+  - Pomodoro Technique: time-box everything
+  - Time blocking: Focus, focus, focus
+  - Priority matrix
+
+## 7: The Procrastination Trap
+
+TRex's Group Project Dilemma
+- Waited until the last minute
+- Overwhelmed by task size
+- Solution: Break project into smaller tasks
+- Result: Completed on time with less stress
+Lesson: Start early, work consistently
+
+## 8: Minimum Viable Product (MVP)
+- Definition: Simplest version of a product/service that can be released
+- Purpose:
+  - Test core functionality
+  - Gather user feedback
+  - Iterate quickly
+- Examples:
+  - Dropbox: Simple video demo
+  - Airbnb: Basic website for SXSW conference
+
+## 9: Interactive: Build Your MVP
+Activity Instructions:
+1. Tentative Groups: Sit together and work out what are the current deliverables
+2. Product idea: Your current proposition
+3. Design an MVP in 7 minutes
+4. Consider: Core features? Target users? Feedback mechanism?
+5. Try preparing a 30-second pitch
+
+## 10: MVP Success Stories
+- Amazon: Online bookstore → E-commerce giant
+- Instagram: Photo-sharing app → Social media platform
+- Zappos: Basic website → Online shoe empire
+Key takeaway: Start simple, evolve based on feedback
+
+## 11: Delivery vs. Perfection
+- "Done is better than perfect" - Sheryl Sandberg
+- Pareto Principle (80/20 Rule):
+  - 80% of effects come from 20% of causes
+  - In projects: 80% of value from 20% of features
+- Benefits of timely delivery:
+  - Faster market entry
+  - Earlier user feedback
+  - Increased motivation
+
+## 12: The Perfectionist's Dilemma
+Case Study: The Never-Ending Website Redesign
+- Company X delayed launch for "one more feature"
+- Competitors entered market
+- Lesson: Perfection can be the enemy of progress
+
+## 13: Balancing Act
+- Aim for high quality, but recognize diminishing returns
+- Strategies:
+  - Set clear "good enough" criteria
+  - Use iterative development
+  - Prioritize features ruthlessly
+  - Embrace user feedback for improvements
+
+## 14: Project Management Methodologies
+
+### Agile Methodology
+- Iterative approach to project management
+- Key principles:
+  - Adaptive planning
+  - Evolutionary development
+  - Early delivery
+  - Continuous improvement
+- Benefits: Flexibility, faster delivery, better quality
+
+### Scrum Framework (An Agile methodology)
+- Roles: Product Owner, Scrum Master, Development Team
+- Key components:
+  - Sprint: Short, time-boxed periods (usually 2-4 weeks)
+  - Daily Scrum: Brief daily team meetings
+  - Sprint Review and Retrospective
+- Benefits: Improved teamwork, regular feedback, faster problem-solving
+
+### Others:
+- Kanban: Visual workflow management, focuses on limiting work in progreess: most commonly trello
+- Waterfall: Sequential, linear approach, needs well-defined phases (req, design, implementation, verificaiton, maintenance)
+
+## 15: Project Management Tool(s)
+### Traditional: Gantt Chart
+- Visual representation of a project schedule
+- Shows:
+  - Tasks or activities
+  - Start and end dates
+  - Dependencies between tasks
+- Benefits: Clear timeline visualization, helps identify potential bottlenecks
+
+### Comparison
+| Aspect             | Agile/Scrum                  | Traditional (e.g., using Gantt charts) |
+| ------------------ | ---------------------------- | -------------------------------------- |
+| Flexibility        | High                         | Lower                                  |
+| Planning Detail    | Evolves over time            | Detailed upfront                       |
+| Best for           | Complex, innovative projects | Well-defined, predictable projects     |
+| Client Involvement | Continuous                   | Mainly at milestones                   |
+
+## 16: Other Project Management Tools
+#### Techniques:
+1. PERT Charts
+2. Critical Path Method
+3. Work Breakdown Structure
+4. Risk Management Matrix
+
+#### Softwares:
+1. Trello: Kanban-style boards for task management
+2. Jira: Popular for software development and agile projects
+3. Asana: Collaborative work management platform
+4. Slack: Team communication and project coordination 
+5. Microsoft Project
+
+## 14: Key Takeaways
+- Set clear timelines and milestones
+- Use effective project and time management techniques
+- Embrace the MVP concept for faster learning and iteration
+- Remember: Done is often better than perfect
+- Balance quality with timely delivery
+
+## 15: Q&A and Next Steps
+- Any questions about today's concepts?
+- For next week: 
+  - Think about how you can apply MVP to your group project
+  - Come prepared to discuss your project timeline
