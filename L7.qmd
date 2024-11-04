@@ -1,6 +1,10 @@
 
 ---
+<<<<<<< HEAD
 title: "Lecture 8: Group Formation and Team Development - Presentation Slides"
+=======
+title: "Lecture 7: Group Formation and Team Development - Presentation Slides"
+>>>>>>> b154aca49b1512acf1624ca6811074275930f96b
 format: 
   revealjs:
     slide-level: 2
@@ -38,6 +42,7 @@ format:
 
 ## 3.2: Group Assignment Finalized (end of next week, i.e. W8)
 If your group is not filled yet:
+<<<<<<< HEAD
 	- Random assignment from the teaching team
 	- Final groups will be communicated by dedicated TA
 	- Expectation: Everyone leads and takes ownership
@@ -58,6 +63,32 @@ If your group is not filled yet:
 	- Create an Availability Status Message (inside team-formation)
 	- Within smaller project channels:
 		- Create Avaialbility Posts:
+=======
+
+- Random assignment from the teaching team
+- Final groups will be communicated by dedicated TA
+- Expectation: Everyone leads and takes ownership
+- Questions? Contact us dedicated TA.
+
+## 3.3.1 How-Tos: Utilizing Slack (78) for Team Formation
+- Post on general channel on slack (#general)
+- Purpose of the channel
+- Set Up Your Profile:
+	- Ensure your Slack profile includes your name, major, interests, and any skills you bring to a team
+- Key Features to Use:
+	- Posting in channels
+	- Direct messaging for one-on-one conversations
+	- Using threads to keep discussions organized
+	- Private channels (if needed)
+
+## 3.3.2 How-Tos: Communicating Your Availability
+- Create an Availability Status Message (inside team-formation)
+- Within smaller project channels:
+	- Create Avaialbility Posts
+  - Pin Your Availability
+  - Be Clear and Honest
+
+>>>>>>> b154aca49b1512acf1624ca6811074275930f96b
 ```{.markdown}
 **Availability for Team Meetings:**
 - Monday: 2-4 PM
@@ -66,9 +97,13 @@ If your group is not filled yet:
 **Preferred Meeting Times:** 
 - [Your preferred times]
 ```
+<<<<<<< HEAD
 		- Pin Your Availability
 		- Be Clear and Honest
 
+=======
+		
+>>>>>>> b154aca49b1512acf1624ca6811074275930f96b
 **Be professional. No hard feelings on changes/switches.**
 
 ## 3.3.3 How-Tos: Ensuring Interdisciplinary Diversity in Teams
@@ -83,7 +118,11 @@ If your group is not filled yet:
 - Balance Team Composition:
 	- Aim for at least five members with diverse academic backgrounds
 
+<<<<<<< HEAD
 ### 3.3.4 How-Tos: Last Words on Getting you Jump-Started:
+=======
+## 3.3.4 How-Tos: Last Words on Getting you Jump-Started:
+>>>>>>> b154aca49b1512acf1624ca6811074275930f96b
 
 - Scheduling Team Meetings: Physical vs. Virtual
 	- Scheduling tools, Agenda Items, Lab Time Slots

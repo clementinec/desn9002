@@ -7,11 +7,12 @@ format:
 ## Lecture Notes
 - [Lecture 1](L1.qmd)
 - [Lecture 2](L2.qmd)
-- [Lecture 3](L3.qmd)
-
+- [Lecture 3](asset/W5.pdf)
+- [Lecture 7](L7.qmd)
+- [Lecture 8](L8.qmd)
 
 ## Syllabus
-- [DESN9002 Syllabus](asset/syllabus_desn9002.pdf)
+- [DESN9002 Syllabus](asset/syllabus.pdf)
 
 ## Time & Location
 - Lectures: 

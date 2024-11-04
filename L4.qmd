@@ -1,0 +1,139 @@
+---
+title: "Lecture 4: DEI in Real-World Conversations: Detailed Slides"
+subtitle: "Understanding and Maneuvering around DEI issues"
+author: "Hongshan Guo"
+date: "2024-09-24"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+## 0: House-Keeping Items: Reflective Diaries
+- Past due if you haven't submitted
+- Can submit accordingly (preferrably on slack)
+  - Make sure we have your email, name and UID when submitting
+  - We will accomodate occassional delay in submission but
+  - Beyond 48 hours there will be penalties on assignment grades (up to 20% deduction)
+
+## 1: Quick Recap
+- From Last Week:
+  - Lectures: DEI in Communications
+  - Lab: Identifying DEI issues in classroom-like scenarios
+- For this week:
+  - Lectures: DEI in practical terms
+  - Lab: Understanding decisions made upon DEI issues, and
+    - Consider why decisions are made upon those items ƒrom the leads in the projects involved
+
+## 2: Rounding-up: DEI Principles
+- Diversity: Embracing our differences
+  - Race, gender, age, religion, ability, etc.
+- Equity: Ensuring fair opportunities
+  - Recognizing and addressing barriers
+- Inclusion: Creating a sense of belonging
+  - Valuing all voices and perspectives
+
+# We've seen some bad examples of DEI not getting properly executed in lab, what about good ones?
+
+## 3: DEI in Everyday Interactions
+- Workplace:
+  - Team meetings
+  - Project collaborations
+  - Informal conversations
+- Academic:
+  - Group projects
+  - Class discussions
+  - Student organizations
+- Social:
+  - Friend gatherings
+  - Community events
+  - Online interactions
+
+## 4: Effective Communication
+- Active Listening:
+  - Focus on the speaker
+  - Ask clarifying questions: ask and be answered
+  - Summarize to ensure understanding: recap
+- Cultural Sensitivity:
+  - Be aware of cultural differences
+  - Avoid assumptions
+  - Respect diverse communication styles
+- Non-verbal Cues:
+  - Pay attention to body language
+  - Be mindful of personal space
+  - Consider cultural differences in gestures
+
+## 5: Respectful Disagreement
+- Framing Feedback Constructively:
+  - Use "I" statements
+  - Focus on actions, not personality
+  - Offer specific suggestions
+- Assertiveness vs. Empathy:
+  - Express your views clearly
+  - Show understanding for others' perspectives
+  - Seek common ground: empathetic
+- The Art of Pushback:
+  - Choose the right time and place
+  - Stick to facts and impacts
+  - Propose alternatives
+_Callback: Non-violent communication from Lecture 1._
+
+## 6: Red Flag Scenarios
+- Example 1: Microaggression
+  - "You're so articulate!" (to a person of color)
+  - Why it's problematic: Implies surprise at eloquence based on race
+- Example 2: Exclusionary Behavior
+  - Always scheduling team lunches during Ramadan
+  - Why it's problematic: Excludes Muslim team members
+- Example 3: Stereotyping
+  - Assuming the only woman in the room is there to take notes/make coffee
+  - Why it's problematic: Reinforces gender stereotypes
+[Interactive element: Students identify more red flags from given scenarios]
+
+# Quick Mock Case Studies with Mentimeter
+[Visit Menti.com with 2134 1375](http://www.mentimeter.com/)
+
+## 7: Mock Case Study - Speaking Up (2134 1375)
+- Scenario: Cultural misunderstanding in a global team
+  - A US-based team leader criticizes an Asian team member for not speaking up in meetings
+- Options to respond:
+  A) Directly confront the team leader about their bias
+  B) Privately educate the leader on cultural differences in communication styles
+  C) Suggest team-wide training on cross-cultural communication
+[Discussion: Pros and cons of each approach]
+
+## 7.1 Angles of Attack
+
+- Any obvious red-flags?
+- Pros and Cons of each of these options
+- Would you suggest anything else?
+- Or would you rather combine any of these options together as the answer to the situation?
+- Consider why none of these are a _solution_.
+
+## 8: Mock DEI Case Study 2 - Representation (2134 1375)
+- Scenario: Representation, implicit bias and systematic advantages
+  - You notice that in your group settings leadership positions are consistently filled by students from certain academic programs, while students from other majors rarely get elected or selected for these roles.
+- Options to respond:
+  A) Propose implementing a quota system to ensure representation from various majors in leadership positions
+  B) Suggest A mentorship program pairing experienced leaders with interested students from underrepresented majors
+  C) Organize a town hall meeting to discuss club culture and leadership selection processes
+[Discussion: Pros and cons of each approach]
+
+## 9: Key Takeaways
+- Context is crucial: One size doesn't fit all in DEI
+- Continuous learning: Stay open to new perspectives
+- Courage to act: Small actions can make a big difference
+- Mistakes happen: It's how we learn and grow from them that matters
+
+## 10: Next Steps
+- Reflection question: "What's one DEI action you can take this week?"
+- Resources for further learning:
+  - [Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think and Do](https://www.amazon.com/Biased-Uncovering-Hidden-Prejudice-Shapes-ebook/dp/B07DH89ZDY)
+  - [Webinar curated by LinkedIn](https://www.linkedin.com/learning/topics/diversity-equity-and-inclusion-dei)
+  - [HKU DEI Mentionings](https://firstyear.hku.hk/u-life/equality-diversity-and-sustainability/)
