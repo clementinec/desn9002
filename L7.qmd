@@ -1,10 +1,6 @@
-
 ---
-<<<<<<< HEAD
-title: "Lecture 8: Group Formation and Team Development - Presentation Slides"
-=======
 title: "Lecture 7: Group Formation and Team Development - Presentation Slides"
->>>>>>> b154aca49b1512acf1624ca6811074275930f96b
+
 format: 
   revealjs:
     slide-level: 2

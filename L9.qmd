@@ -1,6 +1,6 @@
-
 ---
 title: "Lecture 9: Sustainable Leadership, Digitization and Technology"
+
 format: 
   revealjs:
     slide-level: 2
@@ -14,13 +14,13 @@ format:
     incremental: true
 ---
 
-## 1: Welcome Back & Overview (3 min)
+## 1: Welcome Back & Overview 
 - **Learning Objectives:**
   - Explore effective communication in hybrid team setting with people away/abroad.
   - Learn best practices for digital deliverable management.
   - Develop respectful, inclusive communication strategies.
 
-## 2.1: Understanding Communication Modes (3 min)
+## 2.1: Understanding Communication Modes 
 - **Face-to-Face vs. Digital Communication**
   - Characteristics and preferred use cases for each.
   - **Examples:**
@@ -42,16 +42,16 @@ format:
 
 
 
-## 3: Communication Preferences (3 min)
+## 3: Communication Preferences
 - **Written vs. Verbal Communication**
   - Scenarios where written or verbal communication is optimal.
   - **Example Discussion:** When do you prefer one over the other?
 
-## 4: Exploring Communication Challenges (4 min)
+## 4: Exploring Communication Challenges
 - **Quick Partner Activity:**
   - "Share one effective and one challenging experience in your project’s communication."
 
-## 5: Synchronous vs. Asynchronous Work (3 min)
+## 5: Synchronous vs. Asynchronous Work 
 - Definitions and use cases for synchronous vs. asynchronous work.
 - Quick Example: 
   - F2F meetings;
@@ -61,21 +61,21 @@ format:
 ## 6: Identifying Communication Challenges
 - Pick one word that best describes your challenge in working within a team environment? (menti: 5553 7890)
 
-## 7: Communication Behaviors (5 min)
+## 7: Communication Behaviors 
 - **Microaggressions & Passive-Aggressive Tendencies**
   - Brief overview with examples (e.g., dismissive comments).
   - **Discussion:** How to recognize and handle these in teams.
 
-## 8: Ideal Collaboration Times (3 min)
+## 8: Ideal Collaboration Times 
 - **Interactive Survey:**  
   - "Pick the most suitable collaboration hours (24/5 framework)."
 
-## 9: Mapping Your Communication Patterns (4 min)
+## 9: Mapping Your Communication Patterns 
 - **Activity:**  
   - Teams map their current communication practices and share one key takeaway.
   - Join menti.com with **5553 7890**
 
-## 10: Digital Deliverable Management (5 min)
+## 10: Digital Deliverable Management 
 - **Setting SMART Goals**
   - SMART framework for clear, actionable deliverables.
   - What is SMART?
@@ -102,7 +102,7 @@ format:
 - **Scenario Discussion:** Handling a situation where a teammate feels undervalued.
 - **Mentimeter Question:** Possible solutions for making the teammate feel included.
 
-## 14: Accountability in Hybrid Teams (3 min)
+## 14: Accountability in Hybrid Teams
 - **Digital Check-Ins & Autonomy**
   - Balancing regular updates with trust.
   - Stand-up meetings: 
