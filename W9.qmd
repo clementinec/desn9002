@@ -1,0 +1,114 @@
+
+---
+title: "Lecture 9: Sustainable Leadership, Digitization and Technology"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+## 1: Welcome Back & Overview (3 min)
+- **Learning Objectives:**
+  - Explore effective communication in hybrid team setting with people away/abroad.
+  - Learn best practices for digital deliverable management.
+  - Develop respectful, inclusive communication strategies.
+
+## 2.1: Understanding Communication Modes (3 min)
+- **Face-to-Face vs. Digital Communication**
+  - Characteristics and preferred use cases for each.
+  - **Examples:**
+    - Face-to-Face (Oral): Conflict resolution, brainstorming.
+    - Virtual: Routine updates, documentation.
+    - What do you think is the best approach in teamwork/collaboration? (Menti.com: 5553 7890)
+
+## 2.2: Understanding Communication Modes (Tabular)
+
+| **Aspect**                   | **Written**                                        | **Verbal (In-Person/Video)**                        | **Oral (Phone)**                        | **Text Messaging (Chat)**             |
+|------------------------------|----------------------------------------------------|-----------------------------------------------------|-----------------------------------------|---------------------------------------|
+| **Pros**                     | - Permanent record                                | - Immediate feedback & tone                         | - Quick & personal                      | - Fast & convenient                   |
+|                              | - Allows careful editing                          | - Builds trust with body language                   | - Good for urgent issues                | - Asynchronous, suitable for schedules |
+|                              | - Ideal for complex info                          | - Great for real-time discussions                   | - Impromptu discussions                 | - Reduces formality barriers          |
+| **Cons**                     | - Slow feedback                                   | - Requires everyone available                       | - No visual cues                        | - Can lead to misunderstandings       |
+|                              | - Can be misinterpreted                           | - No record unless documented                       | - No record unless documented           | - Information can get lost in threads |
+| **Professionalism Level**    | High (emails, reports) to Medium (informal notes) | High for formal meetings, Medium for informal       | Medium                                  | Low to Medium                         |
+| **Best Used For**            | - Documentation, detailed info                    | - Brainstorming, conflict resolution                | - Urgent or simple issues               | - Quick questions, reminders          |
+
+
+
+## 3: Communication Preferences (3 min)
+- **Written vs. Verbal Communication**
+  - Scenarios where written or verbal communication is optimal.
+  - **Example Discussion:** When do you prefer one over the other?
+
+## 4: Exploring Communication Challenges (4 min)
+- **Quick Partner Activity:**
+  - "Share one effective and one challenging experience in your project’s communication."
+
+## 5: Synchronous vs. Asynchronous Work (3 min)
+- Definitions and use cases for synchronous vs. asynchronous work.
+- Quick Example: 
+  - F2F meetings;
+  - Virtual meetings;
+  - email updates;
+
+## 6: Identifying Communication Challenges
+- Pick one word that best describes your challenge in working within a team environment? (menti: 5553 7890)
+
+## 7: Communication Behaviors (5 min)
+- **Microaggressions & Passive-Aggressive Tendencies**
+  - Brief overview with examples (e.g., dismissive comments).
+  - **Discussion:** How to recognize and handle these in teams.
+
+## 8: Ideal Collaboration Times (3 min)
+- **Interactive Survey:**  
+  - "Pick the most suitable collaboration hours (24/5 framework)."
+
+## 9: Mapping Your Communication Patterns (4 min)
+- **Activity:**  
+  - Teams map their current communication practices and share one key takeaway.
+  - Join menti.com with **5553 7890**
+
+## 10: Digital Deliverable Management (5 min)
+- **Setting SMART Goals**
+  - SMART framework for clear, actionable deliverables.
+  - What is SMART?
+    - **Specific**: clear and specific, answering the questions who, what, where, when, and why. 
+    - **Measurable**: possible to measure progress toward the goal to track success. This often involves quantifying elements of the goal to provide tangible benchmarks.
+    - **Achievable**: ealistic and attainable, given the resources and constraints available. 
+    - **Relevant**: align with broader objectives, ensuring it matters to the person or organization pursuing it.
+    - Time-bound: Deliverable by end of timebox.
+  - **Mini Checklist Activity:** Teams draft a checklist for their next milestone.
+
+## 11: Effective Use of Progress Tracking Tools
+- Overview of tools like Trello, Google Workspace.
+- Other management tool as specified during Lecture 8 on slides.
+
+## 12: Establishing Psychological Safety
+- Importance of trust in hybrid teams.
+- **Techniques:** 
+  - Consistent check-ins, 
+  - empathy, 
+  - respectful feedback.
+  - Avoid **isolation** at all costs: No "I'm the only person who's working on this!"
+
+## 13: Case Scenario: Building Trust
+- **Scenario Discussion:** Handling a situation where a teammate feels undervalued.
+- **Mentimeter Question:** Possible solutions for making the teammate feel included.
+
+## 14: Accountability in Hybrid Teams (3 min)
+- **Digital Check-Ins & Autonomy**
+  - Balancing regular updates with trust.
+  - Stand-up meetings: 
+    - Quick Updates & Accountability – Stand-up meetings encourage each team member to provide a brief status update, fostering accountability and ensuring everyone is aligned on project progress.
+    - Early Issue Identification – Regular, concise check-ins allow the team to quickly surface any roadblocks or challenges, enabling faster problem-solving and minimizing delays.
+    - Enhanced Team Cohesion – Frequent, short interactions help maintain momentum, strengthen team communication, and create a shared sense of purpose, which is especially important in collaborative projects.
+
+- **Closing Remarks**
+  - Key takeaways on effective communication and inclusive collaboration.
