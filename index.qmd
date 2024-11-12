@@ -10,6 +10,8 @@ format:
 - [Lecture 3](asset/W5.pdf)
 - [Lecture 7](L7.qmd)
 - [Lecture 8](L8.qmd)
+- [Lecture 9](L9.qmd)
+- [Lecture 10](L10.qmd)
 
 ## Syllabus
 - [DESN9002 Syllabus](asset/syllabus.pdf)
