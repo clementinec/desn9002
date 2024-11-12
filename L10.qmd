@@ -46,7 +46,7 @@ Why do you think investors care so much about these numbers?
 *Example*: GreenPack needs to monitor both profit margins and environmental impact to maintain sustainable growth.
 
 
-## 1: Key Concepts for Financial Planning**
+## 1: Key Concepts for Financial Planning
 
 
 
@@ -64,7 +64,7 @@ Without a strong financial case, even the best ideas can struggle to survive. Th
 **Question for Students**:  
 *Why do you think investors care so much about these numbers?*
 
-## 2: Market Size Estimation**
+## 2: Market Size Estimation
 **Market Size Estimation** helps define the potential for a startup's product.
 
 1. **TAM (Total Addressable Market)**  
@@ -86,8 +86,7 @@ EcoSip TAM: $200M → SAM: $60M → SOM: $3M (5% of SAM)
 
 
 
-## 3: Cost Structure & Pricing**
-
+## 3: Cost Structure & Pricing
 
 
 **Cost Structure** - Defines all expenses involved in producing, distributing, and selling the product.
@@ -107,7 +106,7 @@ EcoSip uses value-based pricing, charging a premium for eco-friendly materials a
 
 
 
-## 4: Revenue Forecasting**
+## 4: Revenue Forecasting
 
 
 
@@ -129,7 +128,7 @@ A clear revenue forecast can prevent cash flow issues and guide operational plan
 
 
 
-## 5: Return on Investment (ROI) & Break-Even Analysis**
+## 5: Return on Investment (ROI) & Break-Even Analysis
 
 
 
@@ -150,7 +149,7 @@ EcoSip calculates its break-even point to understand how many units they need to
 *Think about a product you buy regularly. At what price point would it be too expensive? What about too cheap?*
 
 
-## 6: Cash Flow Management**
+## 6: Cash Flow Management
 
 
 
@@ -168,7 +167,7 @@ Imagine EcoSip plans to launch a social media campaign but realizes it might run
 **Discussion**:  
 *Can anyone think of a company that might struggle with cash flow? Why is managing cash important even if a company is profitable?*
 
-## 7: Summary of Key Financial Planning Concepts**
+## 7: Summary of Key Financial Planning Concepts
 
 **Financial Planning Key Takeaways**:
 
@@ -205,7 +204,7 @@ Imagine EcoSip plans to launch a social media campaign but realizes it might run
 
 
 
-## 10: CLV vs. CAC for Financial Sustainability**
+## 10: CLV vs. CAC for Financial Sustainability
 
 
 **Customer Lifetime Value (CLV)** - Total revenue from a customer over the CS relationship.
@@ -222,7 +221,7 @@ If CAC is high due to marketing to eco-conscious businesses, GreenPack focuses o
 *Think of ways to increase CLV for GreenPack. How might subscriptions or referrals play a role?*
 
 
-## 11: Revenue Diversification & Economic Resilience**
+## 11: Revenue Diversification & Economic Resilience
 
 
 **Revenue Diversification** - Having multiple income streams to reduce financial risk.
@@ -257,7 +256,7 @@ Balancing profitability with long-term resilience.
 | **Positive Cash Flow** | Ensuring inflows (sales, investments) exceed outflows (expenses) over time.                      |Yes                                      |
 | **Liquidity Reserves** | Reserve funds to cover unforeseen expenses (e.g., 3-6 months of fixed costs).                     |                                      |
 
-**Prompt**: Estimate your burn rate and runway. Do you have a plan to maintain positive cash flow?
+Estimate your burn rate and runway. Do you have a plan to maintain positive cash flow?
 
 ## 14: Revenue Model & Diversification Table
 
@@ -268,7 +267,7 @@ Balancing profitability with long-term resilience.
 | **Secondary Income Streams** | Diversified income sources (e.g., partnerships, add-on services).                          |                                      |
 | **Revenue Growth Potential** | Opportunity for scaling revenue over time (e.g., expanding market reach or product lines).  
 
-**Prompt**: Identify your primary and secondary revenue streams. How will you secure recurring revenue?
+Identify your primary and secondary revenue streams. How will you secure recurring revenue?
 
 ## 15: Cost Structure & Pricing Strategy Table
 
@@ -279,7 +278,7 @@ Balancing profitability with long-term resilience.
 | **Unit Economics**     | Revenue and costs per unit sold. *Ensure profitability per unit.*                               |Yes                                   |
 | **Pricing Strategy**   | Pricing method (e.g., cost-plus, value-based) that aligns with market and covers costs.         |Yes                                   |
 
-**Prompt**: Calculate unit economics and assess whether your pricing strategy can cover costs while staying competitive.
+Calculate unit economics and assess whether your pricing strategy can cover costs while staying competitive.
 
 ## 16: : Customer Economics Table**
 
@@ -290,7 +289,7 @@ Balancing profitability with long-term resilience.
 | **CLV vs. CAC Ratio**   | Ratio showing sustainability; *CLV should exceed CAC significantly*.                           |                                      |
 | **Retention Rate**      | Percentage of customers retained over time; affects CLV.                                      |Yes                                      |
 
-**Prompt**: Compare CLV to CAC. Are customer acquisition costs sustainable based on expected lifetime value?
+Compare CLV to CAC. Are customer acquisition costs sustainable based on expected lifetime value?
 
 ## 17: 6: External Factors & Risk Management Table
 
@@ -301,7 +300,7 @@ Balancing profitability with long-term resilience.
 | **Competitive Landscape** | Level of market saturation, major competitors, and barriers to entry.                        |Yes                                      |
 | **Contingency Planning** | Strategies to adapt to unforeseen risks (e.g., alternative suppliers, emergency funds).       |                                       |
 
-**Prompt**: Identify potential external risks. Do you have contingency plans in place?
+Identify potential external risks. Do you have contingency plans in place?
 
 ## 18: Summary & Key Takeaways
 
