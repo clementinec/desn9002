@@ -179,14 +179,14 @@
     "href": "index.html",
     "title": "DESN9002: Sustainable Leadership",
     "section": "",
-    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8\nLecture 9\nLecture 10"
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8\nLecture 9\nLecture 10\nLecture 11"
   },
   {
     "objectID": "index.html#lecture-notes",
     "href": "index.html#lecture-notes",
     "title": "DESN9002: Sustainable Leadership",
     "section": "",
-    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8\nLecture 9\nLecture 10"
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 7\nLecture 8\nLecture 9\nLecture 10\nLecture 11"
   },
   {
     "objectID": "index.html#syllabus",
@@ -763,11 +763,39 @@
     "text": "Businesss Case 101\nBuilding a Business Case involves estimating financial metrics that ensure sustainability and growth.\n\nMarket Size Estimation (TAM-SAM-SOM)\nCost Structure & Pricing\nRevenue Forecasting\nReturn on Investment (ROI)\n\nWhy are these important? Without a strong financial case, even the best ideas can struggle to survive. These metrics help determine if the startup is a viable business.\nQuestion for Students: Why do you think investors care so much about these numbers?"
   },
   {
-    "objectID": "L10.html#introducing-financial-sustainability",
-    "href": "L10.html#introducing-financial-sustainability",
+    "objectID": "L10.html#what-is-a-business-plan",
+    "href": "L10.html#what-is-a-business-plan",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
-    "section": "Introducing Financial Sustainability",
-    "text": "Introducing Financial Sustainability\nFinancial Sustainability\n\nThe ability of a startup to operate profitably over the long term without compromising core values.\n\nKey Factors:\n\nEfficient Cash Flow Management\nSustainable Revenue Sources (e.g., subscriptions, partnerships)\nResilient Cost Structure that adapts to external pressures (e.g., economic downturns)\n\nExample: GreenPack needs to monitor both profit margins and environmental impact to maintain sustainable growth."
+    "section": "What is a Business Plan?",
+    "text": "What is a Business Plan?\n\nWhat is a Business Plan?\nElements of a Business Plan\nInvestor Presentation"
+  },
+  {
+    "objectID": "L10.html#business-plan-via-components",
+    "href": "L10.html#business-plan-via-components",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "Business Plan via Components",
+    "text": "Business Plan via Components"
+  },
+  {
+    "objectID": "L10.html#why-do-you-need-a-business-plan",
+    "href": "L10.html#why-do-you-need-a-business-plan",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "Why do you need a business plan?",
+    "text": "Why do you need a business plan?\n\nServe as a disciplined focal thinking point for building the business\nTo raise financing\nTo attract talent and management team\nTo pursue strategic partners\nAfter financing, it becomes the operational plan, constantly updated"
+  },
+  {
+    "objectID": "L10.html#business-plan-outline",
+    "href": "L10.html#business-plan-outline",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "Business Plan Outline",
+    "text": "Business Plan Outline\n\nExecutive Summary\n\nCompany description: history, status, background/industry, objectives, strategies, etc.\nManagement Team: Founders and key employees, entrepreneurial/industry/operational experience\nProducts: description and comparisons, innovative features (IP), Applications, Tech, Dev & R&D Support, Evolution\nTarget Market: Summary and industry overview, analysis and forecast, industry trends, initial products/Total Market\nMarketing Program: Objective, strategy, communication and PR, strategic alliances, sales and distribution channels, customers -Financing Requirements\n\nCompetition\n\nSimilar offerings, product comparisons, company comparisons, market share, outlook\n\nBusiness Model\nManufacturing, Service, Facilities, Staffing, Owernership, Milestones, Capital required, Financial Forecast, etc."
+  },
+  {
+    "objectID": "L10.html#business-model",
+    "href": "L10.html#business-model",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "0: Business Model",
+    "text": "0: Business Model\n\nYour company’s plan to make money\n\nHow can you transform your technology or scientific idea into economic value?\nWho will pay? How much? How often?\n\nSome possible business models\n\nLicenses (perpetual or term, your AAA game)\nSubscription (Much more common now with most softwares)\nPay-per-use (bikeshare)"
   },
   {
     "objectID": "L10.html#key-concepts-for-financial-planning",
@@ -781,35 +809,35 @@
     "href": "L10.html#market-size-estimation",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "2: Market Size Estimation",
-    "text": "2: Market Size Estimation\nMarket Size Estimation helps define the potential for a startup’s product.\n\nTAM (Total Addressable Market)\nTotal potential revenue if every potential customer bought the product.\nSAM (Serviceable Available Market)\nSubset of TAM within the startup’s reach based on product reach and location.\nSOM (Serviceable Obtainable Market)\nRealistic portion of SAM that the startup aims to capture.\n\nExample:\nEcoSip TAM: $200M → SAM: $60M → SOM: $3M (5% of SAM)\nPractical Tip: To get a good SOM, research similar products and look at how much market share they captured in their first few years.\nClass Activity Idea:\nEstimate SOM for a common product (e.g., reusable water bottle) in your local area. Think about factors that might reduce the number from TAM to SOM."
+    "text": "2: Market Size Estimation\nMarket Size Estimation helps define the potential for a startup’s product.\n\nTAM (Total Addressable Market)\nTotal potential revenue if every potential customer bought the product.\nSAM (Serviceable Available Market)\nSubset of TAM within the startup’s reach based on product reach and location.\nSOM (Serviceable Obtainable Market)\nRealistic portion of SAM that the startup aims to capture.\n\nPractical Tip: To get a good SOM, research similar products and look at how much market share they captured in their first few years.\nClass Activity Idea:\nEstimate SOM for a common product (e.g., reusable water bottle) in your local area. Think about factors that might reduce the number from TAM to SOM."
   },
   {
     "objectID": "L10.html#cost-structure-pricing",
     "href": "L10.html#cost-structure-pricing",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "3: Cost Structure & Pricing",
-    "text": "3: Cost Structure & Pricing\nCost Structure - Defines all expenses involved in producing, distributing, and selling the product.\n\nFixed Costs: Costs that don’t change (e.g., rent, salaries).\nVariable Costs: Costs that vary with production levels (e.g., materials, shipping).\n\nPricing Strategies: - Cost-Plus Pricing: Add a markup to production costs. Common but might ignore competitor pricing. - Value-Based Pricing: Price based on perceived customer value. This often allows for higher prices, especially if your product has unique benefits.\nExample:\nEcoSip uses value-based pricing, charging a premium for eco-friendly materials and sustainability.\nClass Discussion Prompt:\nHow do you think eco-friendly products should be priced compared to regular ones? Is it fair to charge more? Why or why not?"
+    "text": "3: Cost Structure & Pricing\nCost Structure - Defines all expenses involved in producing, distributing, and selling the product.\n\nFixed Costs: Costs that don’t change (e.g., rent, salaries).\nVariable Costs: Costs that vary with production levels (e.g., materials, shipping).\n\nPricing Strategies:\n\nCost-Plus Pricing: Add a markup to production costs. Common but might ignore competitor pricing.\nValue-Based Pricing: Price based on perceived customer value. This often allows for higher prices, especially if your product has unique benefits.\n\nClass Discussion Prompt:\nHow do you think eco-friendly products should be priced compared to regular ones? Is it fair to charge more? Why or why not?"
   },
   {
     "objectID": "L10.html#revenue-forecasting",
     "href": "L10.html#revenue-forecasting",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "4: Revenue Forecasting",
-    "text": "4: Revenue Forecasting\nRevenue Forecasting - Project the expected revenue based on market share, pricing, and sales strategy.\nSteps: 1. Estimate Sales Volume: Based on SOM and realistic targets. 2. Identify Revenue Streams: Will you make money through direct sales, subscriptions, partnerships, etc.? 3. Project Revenue Over Time: Map out monthly, quarterly, or annual projections.\nWhy is this useful?\nA clear revenue forecast can prevent cash flow issues and guide operational planning.\nExample Activity:\nTake your SOM and estimate a simple revenue projection for the first year. What would be a reasonable growth rate each month?\nQuestion for Students:\nCan you think of a company with an innovative revenue stream? How might EcoSip use something similar?"
+    "text": "4: Revenue Forecasting\nRevenue Forecasting - Project the expected revenue based on market share, pricing, and sales strategy.\nSteps: 1. Estimate Sales Volume: Based on SOM and realistic targets. 2. Identify Revenue Streams: Will you make money through direct sales, subscriptions, partnerships, etc.? 3. Project Revenue Over Time: Map out monthly, quarterly, or annual projections.\nWhy is this useful?\nA clear revenue forecast can prevent cash flow issues and guide operational planning.\nTry this for your startup::\nTake your SOM and estimate a simple revenue projection for the first year. What would be a reasonable growth rate each month?"
   },
   {
     "objectID": "L10.html#return-on-investment-roi-break-even-analysis",
     "href": "L10.html#return-on-investment-roi-break-even-analysis",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "5: Return on Investment (ROI) & Break-Even Analysis",
-    "text": "5: Return on Investment (ROI) & Break-Even Analysis\nROI (Return on Investment) - Measures profitability by comparing net profit to initial investment.\n\nFormula: (Net Profit / Initial Investment) x 100%\nPurpose: Shows investors how quickly they might see returns.\n\nBreak-Even Analysis - Point at which revenue covers all costs.\n\nFormula: Fixed Costs / (Price per Unit - Variable Cost per Unit)\nPurpose: Useful to know how long it will take to cover startup costs.\n\nExample:\nEcoSip calculates its break-even point to understand how many units they need to sell to start making a profit.\nInteractive Prompt:\nThink about a product you buy regularly. At what price point would it be too expensive? What about too cheap?"
+    "text": "5: Return on Investment (ROI) & Break-Even Analysis\nROI (Return on Investment) - Measures profitability by comparing net profit to initial investment.\n\nFormula: (Net Profit / Initial Investment) x 100%\nPurpose: Shows investors how quickly they might see returns.\n\nBreak-Even Analysis - Point at which revenue covers all costs.\n\nFormula: Fixed Costs / (Price per Unit - Variable Cost per Unit)\nPurpose: Useful to know how long it will take to cover startup costs.\n\nFor your startup::\nThink about a product you buy regularly. At what price point would it be too expensive? What about too cheap?"
   },
   {
     "objectID": "L10.html#cash-flow-management",
     "href": "L10.html#cash-flow-management",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "6: Cash Flow Management",
-    "text": "6: Cash Flow Management\nCash Flow Management - Tracking inflows and outflows to ensure positive cash flow.\n\nPositive Cash Flow: Ensure inflows (sales) exceed outflows (expenses).\nCash Flow Projection: Plan expected inflows and outflows monthly, noting any potential cash shortages.\nMaintain Liquidity: Reserve funds for unexpected expenses.\n\nTip: Cash flow issues are a leading cause of startup failure. Keeping projections realistic is essential.\nExample for Students:\nImagine EcoSip plans to launch a social media campaign but realizes it might run out of cash halfway through. A cash flow projection would help plan around this risk.\nDiscussion:\nCan anyone think of a company that might struggle with cash flow? Why is managing cash important even if a company is profitable?"
+    "text": "6: Cash Flow Management\nCash Flow Management - Tracking inflows and outflows to ensure positive cash flow.\n\nPositive Cash Flow: Ensure inflows (sales) exceed outflows (expenses).\nCash Flow Projection: Plan expected inflows and outflows monthly, noting any potential cash shortages.\nMaintain Liquidity: Reserve funds for unexpected expenses.\n\nTip: Cash flow issues are a leading cause of startup failure. Keeping projections realistic is essential.\nDiscussion:\nCan anyone think of a company that might struggle with cash flow? Why is managing cash important even if a company is profitable?"
   },
   {
     "objectID": "L10.html#summary-of-key-financial-planning-concepts",
@@ -823,21 +851,21 @@
     "href": "L10.html#burn-rate-runway-beyond-revenue-cost-and-profit-margins-ymmv-subscription-only",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "8: Burn Rate & Runway, beyond revenue, cost and profit margins (YMMV, subscription only)",
-    "text": "8: Burn Rate & Runway, beyond revenue, cost and profit margins (YMMV, subscription only)\nBurn Rate - Rate of cash expenditure per month. Helps determine operational efficiency and areas to reduce costs if needed.\nRunway - The amount of time before cash reserves are depleted.\nFormula: Runway (months) = Cash Reserves / Monthly Burn Rate"
+    "text": "8: Burn Rate & Runway, beyond revenue, cost and profit margins (YMMV, subscription only)\n\nBurn Rate - Rate of cash expenditure per month. Helps determine operational efficiency and areas to reduce costs if needed.\nRunway - The amount of time before cash reserves are depleted.\nFormula: Runway (months) = Cash Reserves / Monthly Burn Rate"
   },
   {
     "objectID": "L10.html#unit-economics-sustainable-pricing",
     "href": "L10.html#unit-economics-sustainable-pricing",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "9: Unit Economics & Sustainable Pricing",
-    "text": "9: Unit Economics & Sustainable Pricing\nUnit Economics - Measure of profitability per product/service sold.\n\nRevenue per Unit minus Cost per Unit: Ensures each sale is profitable.\nSustainable Pricing: Sets prices that reflect quality, cover costs, and align with the brand’s eco-friendly mission.\n\nExample: GreenPack sets a premium price that covers higher material costs but appeals to clients who value sustainability.\nQuestion for Students:\nHow could GreenPack communicate the added value of its sustainable materials to justify a higher price?"
+    "text": "9: Unit Economics & Sustainable Pricing\nUnit Economics - Measure of profitability per product/service sold.\n\nRevenue per Unit minus Cost per Unit: Ensures each sale is profitable.\nSustainable Pricing: Sets prices that reflect quality, cover costs, and align with the brand’s eco-friendly mission."
   },
   {
     "objectID": "L10.html#clv-vs.-cac-for-financial-sustainability",
     "href": "L10.html#clv-vs.-cac-for-financial-sustainability",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "10: CLV vs. CAC for Financial Sustainability",
-    "text": "10: CLV vs. CAC for Financial Sustainability\nCustomer Lifetime Value (CLV) - Total revenue from a customer over the CS relationship.\nCustomer Acquisition Cost (CAC) - Cost to acquire a new customer.\nFor Financial Sustainability:\nCLV should exceed CAC significantly to ensure profitability.\nExample for GreenPack:\nIf CAC is high due to marketing to eco-conscious businesses, GreenPack focuses on retaining customers through subscriptions, increasing CLV.\nPrompt for Students:\nThink of ways to increase CLV for GreenPack. How might subscriptions or referrals play a role?"
+    "text": "10: CLV vs. CAC for Financial Sustainability\nCustomer Lifetime Value (CLV) - Total revenue from a customer over the CS relationship.\nCustomer Acquisition Cost (CAC) - Cost to acquire a new customer.\nFor Financial Sustainability:\nCLV should exceed CAC significantly to ensure profitability.\nOura Ring as an example\nOne of the first smart rings, initially is buy-out, but now requries subscription to see more data. How do we see this from a CLV vs. CAC angle?"
   },
   {
     "objectID": "L10.html#revenue-diversification-economic-resilience",
@@ -878,8 +906,8 @@
     "objectID": "L10.html#customer-economics-table",
     "href": "L10.html#customer-economics-table",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
-    "section": "16: : Customer Economics Table**",
-    "text": "16: : Customer Economics Table**\n\n\n\n\n\n\n\n\nComponent\nDescription\nEssential?\n\n\n\n\nCustomer Lifetime Value (CLV)\nTotal revenue expected from a single customer over their relationship.\n\n\n\nCustomer Acquisition Cost (CAC)\nAverage cost to acquire a new customer (e.g., marketing expenses).\nYes\n\n\nCLV vs. CAC Ratio\nRatio showing sustainability; CLV should exceed CAC significantly.\n\n\n\nRetention Rate\nPercentage of customers retained over time; affects CLV.\nYes\n\n\n\nCompare CLV to CAC. Are customer acquisition costs sustainable based on expected lifetime value?"
+    "section": "16: : Customer Economics Table",
+    "text": "16: : Customer Economics Table\n\n\n\n\n\n\n\n\nComponent\nDescription\nEssential?\n\n\n\n\nCustomer Lifetime Value (CLV)\nTotal revenue expected from a single customer over their relationship.\n\n\n\nCustomer Acquisition Cost (CAC)\nAverage cost to acquire a new customer (e.g., marketing expenses).\nYes\n\n\nCLV vs. CAC Ratio\nRatio showing sustainability; CLV should exceed CAC significantly.\n\n\n\nRetention Rate\nPercentage of customers retained over time; affects CLV.\nYes\n\n\n\nCompare CLV to CAC. Are customer acquisition costs sustainable based on expected lifetime value?"
   },
   {
     "objectID": "L10.html#external-factors-risk-management-table",
@@ -893,7 +921,77 @@
     "href": "L10.html#summary-key-takeaways",
     "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
     "section": "18: Summary & Key Takeaways",
-    "text": "18: Summary & Key Takeaways\nSustainability Factors to Monitor: 1. Burn Rate and Runway: Maintain a positive cash flow. 2. Revenue Diversity: Avoid over-reliance on a single revenue source. 3. Cost Efficiency and Pricing: Ensure unit profitability. 4. Customer Economics: Retain customers with a CLV that justifies CAC. 5. Risk Management: Plan for external factors that could impact your finances.\nFinal Prompt:\nWhich of these areas needs the most attention in your business? Why?"
+    "text": "18: Summary & Key Takeaways\nSustainability Factors to Monitor: 1. Burn Rate and Runway: Maintain a positive cash flow. 2. Revenue Diversity: Avoid over-reliance on a single revenue source. 3. Cost Efficiency and Pricing: Ensure unit profitability. 4. Customer Economics: Retain customers with a CLV that justifies CAC. 5. Risk Management: Plan for external factors that could impact your finances."
+  },
+  {
+    "objectID": "L10.html#presenting-to-investors-overview",
+    "href": "L10.html#presenting-to-investors-overview",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "19: Presenting to Investors: Overview",
+    "text": "19: Presenting to Investors: Overview\n\nObjective: Get another meeting/initiate due diligence (Vote with confidence)\nSummary of key points, not the WHOLE BUSINESS PLAN\nNOt selling product, selling stock\nBegin by asking the right questions\nPresentation time typically no more than 20 minutes for a real investor meeting\nLeave out information for follow-up questionxs"
+  },
+  {
+    "objectID": "L10.html#presenting-to-investors-content",
+    "href": "L10.html#presenting-to-investors-content",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "20: Presenting to Investors: Content",
+    "text": "20: Presenting to Investors: Content\n\nWhat an investor (ourselves) wants to know:\n\nWho you are\nWhat you have acoomplished\nWhat you plan to do\n\nFocus on the “Big Four”:\n\nManagement Team\nMarket\nProduct (keep light, demo OPTIONAL)\nFinance\n\nMaximum Effort vs. Show of Muscle"
+  },
+  {
+    "objectID": "L10.html#recap",
+    "href": "L10.html#recap",
+    "title": "Lecture 10: Financing your leadership: From ROI to Structuring for Sustainability",
+    "section": "Recap",
+    "text": "Recap\n\nBusiness Plan Overview and Components\nFinancial Planning: Concepts and checklists of possible items to cover: What matters more to you?\nPresenting to investors: Overview and Content Advisory"
+  },
+  {
+    "objectID": "L11.html#sustainability",
+    "href": "L11.html#sustainability",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "Sustainability",
+    "text": "Sustainability\n\nTriple Bottom Line\n\nPeople, Planet and Profit\n\nSystems Thinking\n\nInter-connected Everything"
+  },
+  {
+    "objectID": "L11.html#introduction-and-key-principles",
+    "href": "L11.html#introduction-and-key-principles",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "1. Introduction and Key Principles",
+    "text": "1. Introduction and Key Principles\nGoal: When/why would you consider a start-up investable.\n\nKey Investment Criteria (Slide/Handout):\n\nValue Proposition: Is the problem being solved significant, and is the solution compelling?\nMarket Opportunity: Is there a realistic and substantial target market?\nScalability: Can the startup grow sustainably and profitably?\nTeam Credibility: Does the team inspire confidence in their ability to execute?\nRisk vs. Reward: Are the risks manageable, and do the potential returns justify the investment?"
+  },
+  {
+    "objectID": "L11.html#review-and-group-analysis",
+    "href": "L11.html#review-and-group-analysis",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "2. Review and Group Analysis",
+    "text": "2. Review and Group Analysis\nGoal: Look at the two randomly-generated start-up profiles and determine which is a better bang of your bucks.\n\nActivity:\n\nYou would see a copy of the briefs on both companies in terms of:\n\nA brief summary of one or two peer startups (pre-distributed or summarized by the instructor).\nA scoring sheet based on the investment criteria.\n\nGroup with your team member and discuss and evaluate their assigned startup(s) based on the criteria, deciding:\n\nWhether they would invest and how much of their $10,000 they would allocate.\nA brief justification for their investment decision (2-3 points)."
+  },
+  {
+    "objectID": "L11.html#investor-stances",
+    "href": "L11.html#investor-stances",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "3. Investor Stances",
+    "text": "3. Investor Stances\nGoal: Groups share their investment decisions and reasoning.\n\nActivity:\n\nEach group presents their investment decision for 1-2 minutes:\n\nHow much virtual money they would invest.\nWhy they believe the startup is a good or risky investment, tied to the criteria.\n\nThe presenting group (or instructor) can respond briefly to questions, simulating an investor Q&A."
+  },
+  {
+    "objectID": "L11.html#wrap-up-and-reflection",
+    "href": "L11.html#wrap-up-and-reflection",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "4. Wrap-Up and Reflection",
+    "text": "4. Wrap-Up and Reflection\nGoal: Reflect on the process and lessons learned.\n\nDiscussion Prompts:\n\nWhat did you learn about what the rest of the class believes makes a startup investable?\n\nHow would you use this perspective to refine your own startup project?"
+  },
+  {
+    "objectID": "L11.html#the-triple-bottom-line-of-sustainability",
+    "href": "L11.html#the-triple-bottom-line-of-sustainability",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "The Triple Bottom Line of Sustainability",
+    "text": "The Triple Bottom Line of Sustainability\n\nEconomic Sustainability:\n\nFinancial planning to ensure profitability and long-term viability.\nBalancing innovation with resource allocation and risk management.\n\nEnvironmental Sustainability:\n\nReducing environmental impacts through energy efficiency and sustainable practices.\nLeadership decisions focused on climate resilience and ecological stewardship.\n\nSocial Sustainability:\n\nPrioritizing equity, diversity, and inclusion (DEI) in leadership and organizational culture.\nAddressing social challenges and fostering team cohesion."
+  },
+  {
+    "objectID": "L11.html#sustainability-in-leadership-practice",
+    "href": "L11.html#sustainability-in-leadership-practice",
+    "title": "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project",
+    "section": "Sustainability in Leadership Practice",
+    "text": "Sustainability in Leadership Practice\n\nFinancial Sustainability:\n\nFundamentals of financial planning:\n\nMarket size estimation, pricing strategies, ROI calculation.\nIdentifying costs, buyers, and revenue streams.\n\nEnsuring economic resilience while achieving sustainability goals.\n\nSustainability Metrics:\n\nEvaluating progress through measurable sustainability indicators.\nFocus: Carbon footprint reduction, energy efficiency, and social impact.\n\nCorporate Responsibility & ESG:\n\nIntegration of Environmental, Social, and Governance principles in financial planning.\nLeading teams to create sustainable value propositions for investors and stakeholders."
   },
   {
     "objectID": "L4.html#house-keeping-items-reflective-diaries",
