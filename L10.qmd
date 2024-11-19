@@ -31,24 +31,49 @@ Without a strong financial case, even the best ideas can struggle to survive. Th
 _Question for Students:_
 Why do you think investors care so much about these numbers?
 
-##  Introducing Financial Sustainability
+## What is a Business Plan?
 
-**Financial Sustainability** 
 
-- The ability of a startup to operate profitably over the long term without compromising core values.
+- What is a Business Plan?
+- Elements of a Business Plan
+- Investor Presentation
 
-**Key Factors**:
+## Business Plan via Components
 
-- **Efficient Cash Flow Management**
-- **Sustainable Revenue Sources** (e.g., subscriptions, partnerships)
-- **Resilient Cost Structure** that adapts to external pressures (e.g., economic downturns)
+![](asset/business_plan_foundation.png)
 
-*Example*: GreenPack needs to monitor both profit margins and environmental impact to maintain sustainable growth.
+## Why do you need a business plan?
 
+- Serve as a disciplined focal thinking point for building the business
+- To raise financing
+- _To attract talent and management team_
+- To pursue strategic partners
+- After financing, it becomes the operational plan, constantly updated
+
+## Business Plan Outline
+
+- Executive Summary
+   - Company description: history, status, background/industry, objectives, strategies, etc.
+   - Management Team: Founders and key employees, entrepreneurial/industry/operational experience
+   - Products: description and comparisons, innovative features (IP), Applications, Tech, Dev & R&D Support, Evolution
+   - Target Market: Summary and industry overview, analysis and forecast, industry trends, initial products/Total Market
+   - Marketing Program: Objective, strategy, communication and PR, strategic alliances, sales and distribution channels, **customers**
+   -Financing Requirements
+- Competition
+   - Similar offerings, product comparisons, company comparisons, market share, outlook
+- <span style="color:red">**Business Model**</span>
+- Manufacturing, Service, Facilities, Staffing, Owernership, Milestones, Capital required, Financial Forecast, etc.
+
+## 0: Business Model
+- Your company's plan to make money
+   - How can you transform your technology or scientific idea into economic value?
+   - Who will pay? How much? How often?
+- Some possible business models
+   - Licenses (perpetual or term, your AAA game)
+   - Subscription (Much more common now with most softwares)
+   - Pay-per-use (bikeshare)
 
 ## 1: Key Concepts for Financial Planning
-
-
 
 **Building a Business Case** involves estimating financial metrics that ensure sustainability and growth.
 
@@ -76,8 +101,6 @@ Without a strong financial case, even the best ideas can struggle to survive. Th
 3. **SOM (Serviceable Obtainable Market)**  
    *Realistic portion of SAM that the startup aims to capture.*
 
-**Example**:  
-EcoSip TAM: $200M → SAM: $60M → SOM: $3M (5% of SAM)
 
 *Practical Tip*: To get a good SOM, research similar products and look at how much market share they captured in their first few years.
 
@@ -95,11 +118,10 @@ EcoSip TAM: $200M → SAM: $60M → SOM: $3M (5% of SAM)
 - **Variable Costs**: Costs that vary with production levels (e.g., materials, shipping).
 
 **Pricing Strategies**:
+
 - **Cost-Plus Pricing**: *Add a markup to production costs.* Common but might ignore competitor pricing.
 - **Value-Based Pricing**: *Price based on perceived customer value.* This often allows for higher prices, especially if your product has unique benefits.
 
-**Example**:  
-EcoSip uses value-based pricing, charging a premium for eco-friendly materials and sustainability.
 
 **Class Discussion Prompt**:  
 *How do you think eco-friendly products should be priced compared to regular ones? Is it fair to charge more? Why or why not?*
@@ -120,11 +142,8 @@ EcoSip uses value-based pricing, charging a premium for eco-friendly materials a
 *Why is this useful?*  
 A clear revenue forecast can prevent cash flow issues and guide operational planning.
 
-**Example Activity**:  
+**Try this for your startup:**:  
 *Take your SOM and estimate a simple revenue projection for the first year. What would be a reasonable growth rate each month?*
-
-**Question for Students**:  
-*Can you think of a company with an innovative revenue stream? How might EcoSip use something similar?*
 
 
 
@@ -142,10 +161,7 @@ A clear revenue forecast can prevent cash flow issues and guide operational plan
 - **Formula**: *Fixed Costs / (Price per Unit - Variable Cost per Unit)*
 - **Purpose**: Useful to know how long it will take to cover startup costs.
 
-**Example**:  
-EcoSip calculates its break-even point to understand how many units they need to sell to start making a profit.
-
-**Interactive Prompt**:  
+**For your startup:**:  
 *Think about a product you buy regularly. At what price point would it be too expensive? What about too cheap?*
 
 
@@ -160,9 +176,6 @@ EcoSip calculates its break-even point to understand how many units they need to
 3. **Maintain Liquidity**: Reserve funds for unexpected expenses.
 
 *Tip*: Cash flow issues are a leading cause of startup failure. Keeping projections realistic is essential.
-
-**Example for Students**:  
-Imagine EcoSip plans to launch a social media campaign but realizes it might run out of cash halfway through. A cash flow projection would help plan around this risk.
 
 **Discussion**:  
 *Can anyone think of a company that might struggle with cash flow? Why is managing cash important even if a company is profitable?*
@@ -182,11 +195,11 @@ Imagine EcoSip plans to launch a social media campaign but realizes it might run
 ## 8: Burn Rate & Runway, beyond revenue, cost and profit margins (YMMV, subscription only)
 
 
-**Burn Rate** - Rate of cash expenditure per month. Helps determine operational efficiency and areas to reduce costs if needed.
+- **Burn Rate** - Rate of cash expenditure per month. Helps determine operational efficiency and areas to reduce costs if needed.
 
-**Runway** - The amount of time before cash reserves are depleted.  
+- **Runway** - The amount of time before cash reserves are depleted.  
 
-**Formula**: *Runway (months) = Cash Reserves / Monthly Burn Rate*
+- **Formula**: *Runway (months) = Cash Reserves / Monthly Burn Rate*
 
 
 ## 9: Unit Economics & Sustainable Pricing
@@ -196,12 +209,6 @@ Imagine EcoSip plans to launch a social media campaign but realizes it might run
 
 - **Revenue per Unit** minus **Cost per Unit**: Ensures each sale is profitable.
 - **Sustainable Pricing**: Sets prices that reflect quality, cover costs, and align with the brand’s eco-friendly mission.
-
-*Example*: GreenPack sets a premium price that covers higher material costs but appeals to clients who value sustainability.
-
-**Question for Students**:  
-*How could GreenPack communicate the added value of its sustainable materials to justify a higher price?*
-
 
 
 ## 10: CLV vs. CAC for Financial Sustainability
@@ -214,12 +221,8 @@ Imagine EcoSip plans to launch a social media campaign but realizes it might run
 **For Financial Sustainability**:  
 CLV should exceed CAC **significantly** to ensure profitability.
 
-**Example for GreenPack**:  
-If CAC is high due to marketing to eco-conscious businesses, GreenPack focuses on retaining customers through subscriptions, increasing CLV.
-
-**Prompt for Students**:  
-*Think of ways to increase CLV for GreenPack. How might subscriptions or referrals play a role?*
-
+### Oura Ring as an example
+One of the first smart rings, initially is buy-out, but now requries subscription to see more data. How do we see this from a CLV vs. CAC angle?
 
 ## 11: Revenue Diversification & Economic Resilience
 
@@ -280,7 +283,7 @@ Identify your primary and secondary revenue streams. How will you secure recurri
 
 Calculate unit economics and assess whether your pricing strategy can cover costs while staying competitive.
 
-## 16: : Customer Economics Table**
+## 16: : Customer Economics Table
 
 | Component               | Description                                                                                     | Essential?           |
 |-------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -311,5 +314,29 @@ Identify potential external risks. Do you have contingency plans in place?
 4. **Customer Economics**: Retain customers with a CLV that justifies CAC.
 5. **Risk Management**: Plan for external factors that could impact your finances.
 
-**Final Prompt**:  
-*Which of these areas needs the most attention in your business? Why?*
+
+## 19: Presenting to Investors: Overview
+- Objective: Get another meeting/initiate due diligence (Vote with confidence)
+- Summary of key points, not the **WHOLE BUSINESS PLAN**
+- NOt selling product, selling stock
+- Begin by asking the right questions
+- Presentation time typically no more than 20 minutes for a real investor meeting
+- Leave out information for follow-up questionxs
+
+## 20: Presenting to Investors: Content
+- What an investor (ourselves) wants to know:
+   - Who you are
+   - What you have acoomplished
+   - What you plan to do
+- Focus on the "Big Four":
+   - Management Team
+   - Market
+   - Product (keep light, demo OPTIONAL)
+   - Finance
+- Maximum Effort vs. Show of Muscle
+
+## Recap
+
+- Business Plan Overview and Components
+- Financial Planning: Concepts and checklists of possible items to cover: What matters more to you?
+- Presenting to investors: Overview and Content Advisory

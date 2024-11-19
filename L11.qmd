@@ -1,0 +1,99 @@
+---
+title: "Lecture 11: Wrapping up, Acting as an Investor and Fine-Tuning your Project"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+
+---
+
+# Recapping on Semester of Sustainable Leadership
+
+## Sustainability
+- Triple Bottom Line
+  - People, Planet and Profit
+- Systems Thinking
+  - Inter-connected Everything
+- 
+
+## **1. Introduction and Key Principles**  
+**Goal**: When/why would you consider a start-up investable.
+
+- **Key Investment Criteria (Slide/Handout)**:
+  1. **Value Proposition**: Is the problem being solved significant, and is the solution compelling?
+  2. **Market Opportunity**: Is there a realistic and substantial target market?
+  3. **Scalability**: Can the startup grow sustainably and profitably?
+  4. **Team Credibility**: Does the team inspire confidence in their ability to execute?
+  5. **Risk vs. Reward**: Are the risks manageable, and do the potential returns justify the investment?
+
+---
+
+## **2. Review and Group Analysis**  
+**Goal**: Look at the two randomly-generated start-up profiles and determine which is a better bang of your bucks.
+
+- **Activity**:
+  - You would see a copy of the briefs on both companies in terms of:
+    - A brief summary of one or two peer startups (pre-distributed or summarized by the instructor).
+    - A scoring sheet based on the investment criteria.
+  - Group with your team member and discuss and evaluate their assigned startup(s) based on the criteria, deciding:
+    - Whether they would invest and how much of their $10,000 they would allocate.
+    - A brief justification for their investment decision (2-3 points).
+
+---
+
+## **3. Investor Stances**  
+**Goal**: Groups share their investment decisions and reasoning.
+
+- **Activity**:
+  - Each group presents their investment decision for 1-2 minutes:
+    - How much virtual money they would invest.
+    - Why they believe the startup is a good or risky investment, tied to the criteria.
+  - The presenting group (or instructor) can respond briefly to questions, simulating an investor Q&A.
+
+---
+
+## **4. Wrap-Up and Reflection**  
+**Goal**: Reflect on the process and lessons learned.
+
+- **Discussion Prompts**:
+  - *What did you learn about what the rest of the class believes makes a startup investable?*  
+  - *How would you use this perspective to refine your own startup project?*
+
+---
+
+# Recap of DESN9002
+
+## The Triple Bottom Line of Sustainability
+- **Economic Sustainability**: 
+  - Financial planning to ensure profitability and long-term viability.
+  - Balancing innovation with resource allocation and risk management.
+
+- **Environmental Sustainability**:
+  - Reducing environmental impacts through energy efficiency and sustainable practices.
+  - Leadership decisions focused on climate resilience and ecological stewardship.
+
+- **Social Sustainability**:
+  - Prioritizing equity, diversity, and inclusion (DEI) in leadership and organizational culture.
+  - Addressing social challenges and fostering team cohesion.
+
+## Sustainability in Leadership Practice
+- **Financial Sustainability**:
+  - Fundamentals of financial planning:
+    - Market size estimation, pricing strategies, ROI calculation.
+    - Identifying costs, buyers, and revenue streams.
+  - Ensuring economic resilience while achieving sustainability goals.
+
+- **Sustainability Metrics**:
+  - Evaluating progress through measurable sustainability indicators.
+  - Focus: Carbon footprint reduction, energy efficiency, and social impact.
+
+- **Corporate Responsibility & ESG**:
+  - Integration of Environmental, Social, and Governance principles in financial planning.
+  - Leading teams to create sustainable value propositions for investors and stakeholders.
