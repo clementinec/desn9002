@@ -14,6 +14,23 @@ format:
 - [Lecture 10](L10.qmd)
 - [Lecture 11](L11.qmd)
 
+## Group Presentations
+
+- [Pawsitive](https://www.canva.com/design/DAGW2Gcf9q0/lldDdyf2SL8BpR6axeTaOQ/edit?utm_content=DAGW2Gcf9q0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [PedalPower](https://www.canva.com/design/DAGW_qgF5jc/QkFybm7XkuBwe1eXoC6Miw/edit?utm_content=DAGW_qgF5jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Edbridge](https://www.canva.com/design/DAGVYuTF3cE/EhOSVJnMt7K9_Y_YRxrctw/edit?utm_content=DAGVYuTF3cE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [KongFort](https://www.canva.com/design/DAGVrqsYtnQ/VfIt5sJsnhTXmSHLH53qDw/edit?utm_content=DAGVrqsYtnQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Catharos](https://www.canva.com/design/DAGV_O6p-R8/56KxNYWDyK5rKr9nj_DdLQ/edit?utm_content=DAGV_O6p-R8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Your Closest](https://www.canva.com/design/DAGWwKlSYtY/k4PvVP1zWyTBWLAreP55Jg/view?utm_content=DAGWwKlSYtY&utm_campaign=designshare&utm_medium=link&utm_source=editor#12)
+- [Chromia](https://www.canva.com/design/DAGWvluosVg/pcGHKDalQOkf7l7GfcHBzg/edit?utm_content=DAGWvluosVg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [HealthMatch](https://www.canva.com/design/DAGWXNz8JYI/NNQtrbUhEl5T7DCJyrcF8w/edit?utm_content=DAGWXNz8JYI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [EcoBloom](https://www.canva.com/design/DAGW5c-AjuE/_rXO3rM01mQuFyk0zMZfgg/edit?utm_content=DAGW5c-AjuE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Sustainabite](https://www.canva.com/design/DAGXXtgMnCE/h9Vwax-CwKwK5VdOohSlJw/edit?utm_content=DAGXXtgMnCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Green Monster](https://www.canva.com/design/DAGWcjEf3Zc/9VXraTF9fgOTFP6ZiYRx6w/edit?utm_content=DAGWcjEf3Zc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Archivise](asset/Archivise.pdf) 
+- [Mobility Minds](asset/Mobility Minds.pdf)
+
+
 ## Syllabus
 - [DESN9002 Syllabus](asset/syllabus.pdf)
 
@@ -26,7 +43,7 @@ format:
     - **CPD LG.08**
 
 
-## TA Line-up
+<!-- ## TA Line-up -->
 
 ## Instructors
 - [Hongshan Guo](https://caadfutures2025.hku.hk/hongshanguo/)
